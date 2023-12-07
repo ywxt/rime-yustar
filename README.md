@@ -89,11 +89,11 @@
    A:  
       > 删除特定用户词：输入该词编码，移动光标选中该词，敲删词键 Ctrl + Delete 或 Shift + Delete （Mac OS 用 Shift + Fn + Delete），默认还绑定了 Ctrl + K。删除整个用户词典：先退出输入法程序或算法服务， 然后删除用户目录下的 huma_trad.userdb 目录，再启动输入法。
 
-4. Q： 與官方碼表不同之處
+4. Q:  與官方碼表不同之處
 
    A： **除了部分字使用了「T」源編碼外，其餘均爲「G」源編碼。詳見: [#1](https://github.com/ywxt/rime-yustar/issues/1)**
   
-## License
+### License
 
 本方案基於[宇浩输入法][yuhao-license]，分發碼表時請遵守其相關協議。
 
