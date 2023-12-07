@@ -100,6 +100,6 @@
 其他部分採用 [MIT][mit-license] 協議。
 
 [rime-xuma]: https://github.com/Ace-Who/rime-xuma
-[yuhao-github]: http://hgithub.com/forFudan/yuhao
+[yuhao-github]: http://github.com/forFudan/yuhao
 [yuhao-license]: yuhao-LICENSE
 [mit-license]: LICENSE
