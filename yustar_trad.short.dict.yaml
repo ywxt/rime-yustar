@@ -293,7 +293,7 @@ columns:
 饒	kh
 館	ki
 意	kj
-盞	kk
+竝	kk
 部	kl
 分	km
 公	kn
@@ -441,7 +441,7 @@ columns:
 蝠	qf
 義	qg
 精	qh
-自	qi
+並	qi
 曾	qj
 益	qk
 蟬	ql
@@ -665,6 +665,7 @@ columns:
 鳥	dnn
 韋	bww
 含	rky
+咅	klv
 森	aaa
 彬	aac
 杭	aae
@@ -933,7 +934,7 @@ columns:
 櫓	avj
 櫪	avm
 橛	avq
-𠅤	avr
+楒	avr
 柘	avs
 杯	avu
 栩	avv
@@ -1201,7 +1202,7 @@ columns:
 姍	cce
 衕	ccf
 媢	cci
-姧	ccn
+奻	ccn
 嬬	ccs
 嫻	cda
 姤	cdf
@@ -1515,8 +1516,10 @@ columns:
 齧	dmp
 恝	dmr
 䂮	dmv
+卽	dna
 輔	dnf
 軒	dng
+旣	dnh
 闊	dnl
 泉	dns
 盥	dnu
@@ -2014,7 +2017,7 @@ columns:
 撩	foq
 挾	for
 抿	fox
-𱥂	fpf
+𰙤	fpf
 扛	fpg
 焉	fph
 扯	fpi
@@ -2796,7 +2799,7 @@ columns:
 煁	iue
 寰	iuf
 窊	iug
-燡	iuh
+凙	iuh
 帘	iuj
 煓	ius
 窳	iuu
@@ -2973,7 +2976,7 @@ columns:
 瓏	jkw
 祇	jkx
 晟	jky
-㺭	jkz
+覎	jkz
 最	jlb
 瑙	jld
 珥	jle
@@ -3185,6 +3188,7 @@ columns:
 卵	kkk
 𫲦	kkl
 剗	kkm
+盞	kku
 餾	kkv
 辡	kkx
 孖	kkz
@@ -3198,7 +3202,6 @@ columns:
 瓿	klr
 餂	kls
 㪗	klu
-咅	klv
 競	klw
 划	kmd
 𢪘	kmf
@@ -3280,7 +3283,7 @@ columns:
 予	kyy
 噤	laa
 吭	lae
-𠲖	lag
+㗒	lag
 喳	laj
 哼	lak
 喇	lal
@@ -3820,7 +3823,7 @@ columns:
 漸	ndd
 浜	ndf
 洩	ndg
-涄	ndh
+垽	ndh
 潤	ndj
 潔	ndm
 濼	ndn
@@ -4599,10 +4602,9 @@ columns:
 蜻	qhw
 蚜	qhy
 羔	qib
-並	qie
 料	qig
 螳	qih
-蠑	qii
+自	qii
 普	qij
 蛇	qin
 羹	qiq
@@ -5882,7 +5884,7 @@ columns:
 厝	vsj
 異	vsk
 礴	vsn
-𱰛	vsp
+㽒	vsp
 鮞	vsr
 石	vss
 硭	vst
