@@ -1,0 +1,35 @@
+# encoding: utf-8
+---
+name: "yustar_trad.short.phrase"
+version: "20231207"
+sort: original
+columns:
+  - text
+  - code
+...
+
+就是	a
+這個	b
+如果	c
+所以	d
+什麼	e
+一個	f
+我們	g
+都是	h
+突然	i
+可以	j
+或者	k
+只是	l
+應該	m
+沒有	n
+已經	o
+工作	p
+自己	q
+人生	r
+而且	s
+於是	t
+還是	u
+不是	v
+因爲	w
+多少	x
+那麼	y

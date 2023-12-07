@@ -1,0 +1,30 @@
+# encoding: utf-8
+
+---
+name: "yustar_trad"
+version: "20231030"
+sort: original
+columns:
+  - text
+  - code
+  - stem
+import_tables:
+  - yustar_trad.short
+  - yustar_trad.short.phrase
+  - yustar_trad.char
+  - yustar_trad.phrase
+  - yustar_trad.extended
+encoder:
+  exclude_patterns:
+    - '^[a-z]$'  # 一简不参与造词
+    - '[^a-z]'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 20]
+      formula: "AaBaCaZa"
+...
+
+
