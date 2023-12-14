@@ -3,7 +3,7 @@
 # Do not modify and use this schema directly.
 ---
 name: "yustar_trad.spelling"
-version: "20231207"
+version: "20231214"
 sort: original
 columns:
   - text

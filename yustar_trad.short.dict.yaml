@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_trad.short"
-version: "20231207"
+version: "20231214"
 sort: original
 columns:
   - text
@@ -649,6 +649,7 @@ columns:
 之	oz
 足	pz
 爪	uz
+飝	yy
 丌	ljj
 匕	nbb
 卅	sss
@@ -1778,6 +1779,7 @@ columns:
 俠	eor
 傈	epa
 左	epg
+凪	epi
 價	epj
 侏	epk
 僳	epq
@@ -2044,6 +2046,7 @@ columns:
 撿	frq
 挫	frr
 擒	frt
+𫠡	fru
 揲	fsa
 形	fsc
 攤	fsf
@@ -2724,6 +2727,7 @@ columns:
 寵	ikw
 宰	ikx
 宬	iky
+𮱡	ikz
 宮	ild
 窶	ilg
 燥	ill
@@ -4302,7 +4306,6 @@ columns:
 絪	owo
 縕	owr
 縐	oww
-鿭	oxi
 纔	oxl
 愍	oxt
 純	oxw
@@ -4532,6 +4535,7 @@ columns:
 際	pwj
 酌	pwk
 齣	pwl
+𤚴	pwm
 跑	pwo
 贊	pwp
 醞	pwr
@@ -5473,6 +5477,7 @@ columns:
 巟	twr
 亡	tww
 鈅	twy
+鉨	txi
 鑱	txl
 銫	txo
 欽	txq
