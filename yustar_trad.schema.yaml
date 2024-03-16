@@ -210,7 +210,7 @@ luna_pinyin:
 
 reverse_lookup:
   tag: reverse_lookup
-  prefix: "z"    # 反查引导符「`」
+  prefix: "z"    # 反查引导符「z」
   # suffix:   # 反查关闭符，暂不定义
   tips: 【反查：拼音+筆畫】
   closing_tips: 【反查關閉】
