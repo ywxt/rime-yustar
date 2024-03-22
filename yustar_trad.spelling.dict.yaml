@@ -3,7 +3,7 @@
 # Do not modify and use this schema directly.
 ---
 name: "yustar_trad.spelling"
-version: "20240316"
+version: "20240317"
 sort: by_weight
 columns:
   - text

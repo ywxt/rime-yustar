@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_trad.short"
-version: "20240316"
+version: "20240317"
 sort: original
 columns:
   - text
@@ -13,7 +13,7 @@ columns:
 這	b	bocy
 她	c	coen
 的	d	dwkd
-在	e	euht
+有	e	ewyz
 一	f	fii
 我	g	gfkg
 地	h	hoet
@@ -155,9 +155,9 @@ columns:
 偷	er
 備	es
 仿	et
-候	eu
+在	eu
 優	ev
-有	ew
+個	ew
 你	ex
 伺	ey
 𠂇	ez
@@ -1869,7 +1869,7 @@ columns:
 偺	etu
 俻	etv
 倸	eua
-仆	eub
+候	eub
 倀	euc
 催	eue
 俳	euf
@@ -1894,7 +1894,7 @@ columns:
 偬	ewc
 倜	ewh
 佻	ewi
-個	ewj
+傺	ewj
 佝	ewl
 傌	ewm
 颮	ewo
