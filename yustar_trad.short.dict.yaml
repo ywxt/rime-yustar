@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_trad.short"
-version: "20240317"
+version: "20240405"
 sort: original
 columns:
   - text
@@ -295,7 +295,7 @@ columns:
 飯	kd
 孔	ke
 感	kf
-才	kg
+良	kg
 饒	kh
 館	ki
 意	kj
@@ -413,7 +413,7 @@ columns:
 終	ot
 緩	ou
 約	ow
-民	ox
+纔	ox
 之	oz
 醉	pa
 蹬	pb
@@ -1428,18 +1428,11 @@ columns:
 鬧	dau
 闌	daw
 輟	dbb
-鼬	dbd
-鼥	dbe
 闋	dbf
-鼴	dbh
-鼧	dbi
-鼢	dbk
 闢	dbl
 反	dbo
 鴃	dbr
-鼠	dbs
-鼷	dbu
-鼫	dbv
+輾	dbs
 闈	dbw
 殷	dby
 興	dcf
@@ -1536,10 +1529,16 @@ columns:
 閽	dkx
 閆	dla
 輙	dlb
+鼬	dld
 聞	dle
+鼯	dlf
+鼴	dlh
+鼧	dli
 闠	dlj
 軹	dlk
 輯	dll
+鼠	dls
+鼷	dlu
 輜	dlv
 軏	dlw
 𨶈	dmb
@@ -2496,7 +2495,7 @@ columns:
 犽	hha
 匾	hhc
 鼃	hhd
-翹	hhh
+户	hhh
 堵	hhj
 考	hhk
 猿	hhl
@@ -3270,13 +3269,13 @@ columns:
 亷	kgb
 鷸	kgc
 餓	kgf
-良	kgg
+戈	kgg
 竍	kgi
 鼒	kgj
 響	kgk
 饢	kgl
 孫	kgo
-矛	kgp
+才	kgp
 蟊	kgq
 矜	kgr
 飭	kgs
@@ -4478,9 +4477,8 @@ columns:
 絪	owo
 縕	owr
 縐	oww
-鿭	oxi
+民	oxi
 昬	oxj
-纔	oxl
 蟁	oxq
 愍	oxt
 純	oxw
@@ -5624,7 +5622,7 @@ columns:
 劾	tsl
 弈	tso
 鎝	tsr
-鏵	tss
+豕	tss
 鋩	tst
 錨	tsv
 鋒	ttd
@@ -6385,7 +6383,7 @@ columns:
 膃	wwr
 胸	wws
 𠩃	wwv
-皺	www
+囗	www
 朋	wwy
 脃	wxo
 肷	wxq
