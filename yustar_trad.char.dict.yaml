@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_trad.char"
-version: "20240405"
+version: "20240406"
 sort: by_weight
 columns:
   - text
@@ -306,7 +306,7 @@ columns:
 偈	ejwe	1413
 偌	esel	12710
 偎	evmc	18007
-偏	ehce	236193
+偏	edce	236193
 偕	ennd	5650
 做	ejtu	2254997
 停	eajd	715545
@@ -561,7 +561,7 @@ columns:
 匹	leiw	67944
 区	hsif	0
 医	hjif	0
-匾	hhce	7782
+匾	hdce	7782
 匿	hsel	17242
 十	gii	2567177
 千	mqq	781990
@@ -699,7 +699,7 @@ columns:
 听	ldjv	0
 吭	laej	29375
 吮	lnwr	8032
-启	hlvh	0
+启	dlvh	0
 吱	lgbo	47132
 吲	lbus	56
 吴	lfod	0
@@ -834,7 +834,7 @@ columns:
 唯	lehv	217658
 唰	lbum	16179
 唱	ljjr	214664
-唳	lhhq	1892
+唳	ldhq	1892
 唷	lanw	3835
 唼	lkcn	70
 唾	lmsf	22408
@@ -1210,7 +1210,7 @@ columns:
 妈	cbmn	0
 妊	cmrn	930
 妍	cfso	45256
-妒	chhn	32080
+妒	cdhn	32080
 妓	cgbo	45162
 妖	cmyn	278201
 妗	crky	2231
@@ -1619,7 +1619,7 @@ columns:
 床	mamg	59385
 庋	mgbo	221
 序	mkvg	109198
-庐	mhhg	0
+庐	mdhg	0
 庑	mffo	0
 库	mxjg	0
 应	mnsg	0
@@ -1965,15 +1965,15 @@ columns:
 戳	vvek	20671
 戴	gkvk	189960
 户	hhh	5121
-戽	higi	66
-戾	hhqh	8677
-房	htfh	980289
+戽	digi	66
+戾	dhqh	8677
+房	dtfh	980289
 所	ddjh	3534172
-扁	hceh	37657
-扃	hclv	214
-扇	hvvx	86396
-扈	hlob	10073
-扉	hufh	9977
+扁	dceh	37657
+扃	dclv	214
+扇	dvvx	86396
+扈	dlob	10073
+扉	dufh	9977
 手	fss	5076179
 扌	fss	111
 才	kgpc	2714945
@@ -2018,7 +2018,7 @@ columns:
 抠	fhsi	0
 抡	frnb	0
 抢	fraj	0
-护	fhhs	0
+护	fdhs	0
 报	fabo	0
 抨	fnqk	3371
 披	fbps	85497
@@ -2118,7 +2118,7 @@ columns:
 换	fxco	0
 捣	fmus	0
 捧	foak	68202
-捩	fhhq	399
+捩	fdhq	399
 捭	fdgi	617
 据	fbjg	30928
 捱	fvhh	49476
@@ -2149,7 +2149,7 @@ columns:
 措	fsjr	104929
 掬	fwqm	6329
 掭	ffok	37
-掮	fhwy	625
+掮	fdwy	625
 掰	fkmf	10932
 掳	fusl	0
 掴	fwjk	0
@@ -2878,7 +2878,7 @@ columns:
 沦	nrnb	0
 沧	nraj	0
 沩	nksk	0
-沪	nhhs	0
+沪	ndhs	0
 沫	nfms	36929
 沭	nakd	665
 沮	njqs	31095
@@ -3201,7 +3201,7 @@ columns:
 灿	iush	0
 炀	iycp	0
 炅	jihr	2096
-炉	ihhh	0
+炉	idhh	0
 炊	ixqh	9154
 炎	iihh	120855
 炒	iigp	38581
@@ -3273,9 +3273,9 @@ columns:
 煮	hjib	32896
 煲	elai	3617
 煳	ijwy	243
-煸	ihce	641
+煸	idce	641
 煺	igoc	74
-煽	ihvv	12159
+煽	idvv	12159
 熄	iqri	26172
 熊	nwni	139726
 熏	mghq	7421
@@ -3318,7 +3318,7 @@ columns:
 牌	ddgi	237160
 牍	dgyo	0
 牒	dsam	3502
-牖	dhnf	413
+牖	ddnf	413
 牙	haa	300629
 牛	pnn	313393
 牝	pnbn	864
@@ -3342,7 +3342,7 @@ columns:
 犊	pgyo	0
 犋	pjka	22
 犍	pbag	2084
-犏	phce	46
+犏	pdce	46
 犒	pagn	3262
 犟	bnqp	3756
 犬	hqq	40178
@@ -3868,7 +3868,7 @@ columns:
 碟	vsam	29736
 碡	vhem	167
 碣	vjwe	958
-碥	vhce	16
+碥	vdce	16
 碧	jdvs	113618
 碰	vque	216721
 碱	vkfl	195
@@ -4111,7 +4111,7 @@ columns:
 箸	ghjr	1300
 篁	gdjw	410
 篆	gets	4333
-篇	ghce	140190
+篇	gdce	140190
 篌	gebj	320
 篑	gljc	0
 篓	gqcn	0
@@ -4195,7 +4195,7 @@ columns:
 絮	clos	28392
 絷	frko	0
 綦	uosq	1029
-綮	htos	938
+綮	dtos	938
 縻	mosa	588
 繁	geto	111592
 繇	wjgo	3040
@@ -4310,7 +4310,7 @@ columns:
 缓	kunb	0
 缔	kaqu	0
 缕	kqcn	0
-编	khce	0
+编	kdce	0
 缗	koxj	0
 缘	kets	0
 缙	kfuj	0
@@ -4399,7 +4399,7 @@ columns:
 翡	uvvx	10243
 翥	hjvv	357
 翦	qwmv	3195
-翩	hcvv	35855
+翩	dcvv	35855
 翮	flcv	429
 翰	gjrv	60202
 翱	dogv	3713
@@ -4460,7 +4460,7 @@ columns:
 肃	bkka	0
 肄	njba	531
 肆	ubak	58585
-肇	htba	6900
+肇	dtba	6900
 肉	crre	377486
 肋	wsly	19237
 肌	wejy	85083
@@ -4477,7 +4477,7 @@ columns:
 肢	wgbo	44527
 肤	wofy	0
 肥	woby	93039
-肩	hwyh	292627
+肩	dwyh	292627
 肪	wtfy	8036
 肫	wxwk	178
 肭	wcre	57
@@ -4689,7 +4689,7 @@ columns:
 芡	sxqo	542
 芤	skei	68
 芥	srka	7468
-芦	shho	0
+芦	sdho	0
 芨	sgkd	1164
 芩	srky	542
 芪	skxi	778
@@ -5112,7 +5112,7 @@ columns:
 蝎	qjwe	1909
 蝓	qrfm	173
 蝗	qdjw	6770
-蝙	qhce	16004
+蝙	qdce	16004
 蝠	qflv	22099
 蝣	qtgk	218
 蝤	qqpy	124
@@ -5235,7 +5235,7 @@ columns:
 裼	xjwc	61
 裾	xbjg	1369
 褂	xhhu	9095
-褊	xhce	272
+褊	xdce	272
 褐	xjwe	14390
 褒	aelg	6428
 褓	xela	1076
@@ -5415,7 +5415,7 @@ columns:
 谚	dkgc	0
 谛	daqu	0
 谜	dqoc	0
-谝	dhce	0
+谝	ddce	0
 谟	dsjo	0
 谠	diwr	0
 谡	dvkt	0
@@ -5610,7 +5610,7 @@ columns:
 踺	pbag	32
 踽	pglj	1379
 蹀	psam	192
-蹁	phce	503
+蹁	pdce	503
 蹂	pkga	7440
 蹄	paqu	28011
 蹇	iskp	1785
@@ -5784,7 +5784,7 @@ columns:
 遂	qtoc	54528
 遄	usoc	284
 遇	vocv	409411
-遍	hcoc	224896
+遍	dcoc	224896
 遏	jwro	13099
 遐	bibo	8944
 遑	djoc	2242
@@ -6283,7 +6283,7 @@ columns:
 雄	eneh	302005
 雅	heha	387226
 集	eamh	515762
-雇	hehh	16544
+雇	dehh	16544
 雉	jehi	3195
 雌	pneh	10979
 雍	akge	18960
@@ -6504,14 +6504,14 @@ columns:
 骒	bjam	0
 骓	behm	0
 骖	bnoc	0
-骗	bhce	0
+骗	bdce	0
 骘	ypib	0
 骚	bbkq	0
 骛	kgtb	0
 骜	hwtb	0
 骝	bkvt	0
 骞	iskb	0
-骟	bhvv	0
+骟	bdvv	0
 骠	bpjs	0
 骡	bvos	0
 骢	bdtr	0
@@ -6618,7 +6618,7 @@ columns:
 鳅	xmih	0
 鳆	xgjt	0
 鳇	xdjw	0
-鳊	xhce	0
+鳊	xdce	0
 鳋	xbkq	0
 鳌	hwtx	0
 鳍	xhnj	0
@@ -7120,7 +7120,7 @@ columns:
 傐	eagr	8
 傑	exaa	211333
 傒	euno	364
-傓	ehvv	6
+傓	edvv	6
 傔	eqbk	3
 傕	exeh	2207
 傖	erkl	658
@@ -7197,7 +7197,7 @@ columns:
 僫	efkr	2
 僯	eqxa	5
 僰	acar	88
-僱	eheh	23266
+僱	edeh	23266
 僲	epxa	2
 僴	edjr	149
 僶	edmr	3
@@ -7685,7 +7685,7 @@ columns:
 呏	lgso	1
 呑	mlvy	148
 呚	ltuv	0
-呝	lhyi	1
+呝	ldyi	1
 呞	lyfl	0
 呟	lana	8
 呠	lafi	11
@@ -7811,8 +7811,8 @@ columns:
 問	dlvm	2901423
 啑	lfbp	4544
 啒	lbww	1
-啓	htlv	97162
-啔	hklv	0
+啓	dtlv	97162
+啔	dklv	0
 啗	lxdi	4
 啘	lixa	1
 啙	pnll	0
@@ -7820,7 +7820,7 @@ columns:
 啛	lgbc	6
 啝	lmlv	0
 啞	lfka	65908
-啟	hltu	36304
+啟	dltu	36304
 啠	ddlv	0
 啢	lfuk	25
 啣	lgfa	43
@@ -8729,7 +8729,7 @@ columns:
 媢	ccij	8
 媣	cnra	0
 媤	cvri	0
-媥	chce	3
+媥	cdce	3
 媦	cvwy	2
 媧	crkn	10475
 媨	cqpy	0
@@ -9321,7 +9321,7 @@ columns:
 帉	ukmd	2
 帊	uobj	1
 帋	kxuj	19862
-帍	hujh	0
+帍	dujh	0
 帎	uxwr	4
 帒	ekuj	0
 帓	ufmj	2
@@ -9572,7 +9572,7 @@ columns:
 徤	cbag	2
 徥	cjfp	2
 徦	cbib	1
-徧	chce	22925
+徧	cdce	22925
 復	cgjt	158240
 徫	cbwc	0
 徬	caqt	113
@@ -9717,7 +9717,7 @@ columns:
 悳	gjer	2
 悵	rucx	19436
 悶	drim	203504
-悷	rhhq	1
+悷	rdhq	1
 悹	ibbr	0
 悺	ribb	34
 悽	rgbc	29544
@@ -9756,7 +9756,7 @@ columns:
 惷	ojri	6992
 惸	rwjk	1
 惻	rjmd	7431
-惼	rhce	0
+惼	rdce	0
 惽	roxj	2
 惾	rswt	1
 惿	rjfp	1
@@ -9994,15 +9994,15 @@ columns:
 戵	jjek	0
 戶	dhh	222078
 戸	hhh	13
-戹	hyih	1409
-戺	hosh	0
-戻	hodh	1
+戹	dyih	1409
+戺	dosh	0
+戻	dodh	1
 戼	yhfb	0
-扂	hulv	0
+扂	dulv	0
 扄	hdxh	0
-扅	hxxx	6
-扆	hagy	45
-扊	hiih	4
+扅	dxxx	6
+扆	dagy	45
+扊	diih	4
 扏	frjs	1
 扐	fsls	15
 払	fnas	1
@@ -10208,7 +10208,7 @@ columns:
 揕	fuei	2
 揗	fdgj	1
 揘	fdjw	4
-揙	fhce	22
+揙	fdce	22
 揚	fjfc	286052
 換	fxco	396625
 揜	frso	6
@@ -10257,7 +10257,7 @@ columns:
 搣	fkfi	0
 搤	fqku	3478
 搥	fdoc	1446
-搧	fhvv	497
+搧	fdvv	497
 搨	fjvv	11873
 搩	fxaa	0
 搫	uefs	14
@@ -10520,7 +10520,7 @@ columns:
 斍	tjje	0
 斎	tkjs	4
 斏	tkgg	0
-斒	thce	0
+斒	tdce	0
 斔	tqdr	0
 斕	tdaq	5906
 斖	tdcj	0
@@ -10588,7 +10588,7 @@ columns:
 昄	jdbo	6
 昅	jgkd	2
 昇	jgso	145082
-昈	jhhr	0
+昈	jdhr	0
 昉	jtfr	351
 昋	fojr	0
 昍	jjrr	0
@@ -10654,7 +10654,7 @@ columns:
 晱	jiih	4
 晲	jdwr	6
 晳	adjr	30113
-晵	htjr	1
+晵	dtjr	1
 晸	jfpt	19
 晹	jjwc	65
 晻	jodd	76148
@@ -10853,7 +10853,7 @@ columns:
 枠	argi	1
 枡	agso	0
 枤	ahqm	0
-枦	ahhm	0
+枦	adhm	0
 枩	akna	0
 枬	awat	67
 枮	aulv	3
@@ -11040,7 +11040,7 @@ columns:
 棔	akxj	2
 棖	aucm	40
 棗	acac	13339
-棙	ahhq	3
+棙	adhq	3
 棛	aanw	0
 棜	atri	0
 棝	awjg	3
@@ -11052,7 +11052,7 @@ columns:
 棥	assa	0
 棦	auby	0
 棧	akkg	34021
-棨	htam	35
+棨	dtam	35
 棩	addf	0
 棪	aiih	13
 棫	aklf	1238
@@ -11084,7 +11084,7 @@ columns:
 椓	atkd	7
 椔	alvt	0
 椕	akma	0
-椖	ahtf	0
+椖	adtf	0
 椗	aifp	117
 椘	aaoz	0
 椙	ajjr	1
@@ -11120,7 +11120,7 @@ columns:
 楀	aglj	0
 楁	aitl	0
 楃	abdz	1
-楄	ahce	2
+楄	adce	2
 楅	aflv	0
 楆	apcn	0
 楇	arkm	0
@@ -11249,7 +11249,7 @@ columns:
 槰	atdo	1
 槱	apib	8
 槳	dwka	6599
-槴	ahlo	1
+槴	adlo	1
 槵	allr	0
 槶	awkf	0
 槷	hkha	1
@@ -11878,7 +11878,7 @@ columns:
 涖	nekl	351
 涗	nklw	4
 涘	nnji	623
-涙	nhod	6
+涙	ndod	6
 涚	nqlw	0
 涜	nhxw	0
 涢	nlcb	0
@@ -11912,7 +11912,7 @@ columns:
 淔	ngjq	0
 淕	nhkh	1
 淗	nwqm	0
-淚	nhhq	356508
+淚	ndhq	356508
 淛	npcm	5846
 淜	nwwy	2
 淟	ncsk	1
@@ -11923,7 +11923,7 @@ columns:
 淨	nuby	185085
 淩	nhkt	118686
 淪	nrfc	25095
-淭	nham	0
+淭	ndam	0
 淯	nanw	187
 淰	nrkr	348
 淲	nuhs	1
@@ -12089,7 +12089,7 @@ columns:
 滧	nakt	0
 滪	nkvc	0
 滫	neuw	1
-滬	nhlo	10321
+滬	ndlo	10321
 滭	njsa	3
 滮	nucp	0
 滯	nsfu	34037
@@ -12504,7 +12504,7 @@ columns:
 焅	iplv	14
 焆	ilwy	2
 焇	iiwy	11
-焈	hoih	0
+焈	doih	0
 焋	dhih	0
 焌	inkt	130
 焍	iqbg	0
@@ -12626,7 +12626,7 @@ columns:
 熥	ibso	9
 熦	iieh	150
 熧	crri	0
-熩	ihlo	0
+熩	idlo	0
 熪	imxx	0
 熫	imsi	0
 熭	ddbi	0
@@ -12762,7 +12762,7 @@ columns:
 牎	dwcr	34999
 牏	drfm	1
 牐	dmdi	2862
-牑	dhce	1
+牑	ddce	1
 牓	daqt	4401
 牔	dnkc	0
 牕	ddtr	20081
@@ -12881,7 +12881,7 @@ columns:
 猋	hhhq	8
 猌	ahql	0
 猍	halq	2
-猏	hhwy	0
+猏	hdwy	0
 猐	hqei	1
 猑	hjnn	0
 猒	jwhq	0
@@ -12901,7 +12901,7 @@ columns:
 猰	hdmo	108
 猲	hjwe	163
 猳	hbib	0
-猵	hhce	3
+猵	hdce	3
 猶	hqpy	246733
 猺	hwjf	3
 猻	hkgo	1340
@@ -13248,7 +13248,7 @@ columns:
 瓾	mcrw	0
 甀	msfr	1
 甁	gngr	7
-甂	hcrw	0
+甂	dcrw	0
 甃	mirw	23
 甅	rvvl	0
 甆	qnnr	0
@@ -13619,7 +13619,7 @@ columns:
 睖	jhkt	20
 睗	jjwc	1
 睘	uflg	1
-睙	jhhq	4
+睙	jdhq	4
 睜	juby	186933
 睝	mwgj	0
 睞	jalm	6277
@@ -13751,7 +13751,7 @@ columns:
 砡	vjkd	5
 砢	vjlv	23
 砤	vgoe	0
-砨	vhyi	0
+砨	vdyi	0
 砪	vems	0
 砫	vkjw	26
 砮	cbvs	40
@@ -14109,7 +14109,7 @@ columns:
 稥	mijr	0
 稦	mbwh	0
 稧	mdmo	13
-稨	mhce	0
+稨	mdce	0
 稩	mvwy	0
 稪	mgjt	0
 稫	mflv	0
@@ -14435,7 +14435,7 @@ columns:
 簁	gcpp	6
 簂	gwkf	1
 簃	gmxx	32
-簄	ghlo	0
+簄	gdlo	0
 簅	gtvp	0
 簆	gifb	2
 簈	gbgn	1
@@ -14585,7 +14585,7 @@ columns:
 糀	qsen	4
 糂	quei	0
 糃	qjfc	0
-糄	qhce	0
+糄	qdce	0
 糆	qsmm	0
 糉	qswt	671
 糋	qqwm	0
@@ -14779,7 +14779,7 @@ columns:
 綜	oijs	30461
 綝	oaam	203
 綞	omsf	285
-綟	ohhq	1
+綟	odhq	1
 綠	oens	245690
 綡	oaiv	0
 綢	owhl	23611
@@ -14850,7 +14850,7 @@ columns:
 緥	oela	1028
 緦	ovri	595
 緧	oqpy	0
-編	ohce	167606
+編	odce	167606
 緩	ounb	450269
 緪	orff	1
 緫	owcr	0
@@ -15254,10 +15254,10 @@ columns:
 聼	ylgr	25
 聽	ljgr	2450341
 聾	kwul	19376
-肁	hbak	2
+肁	dbak	2
 肂	fxba	0
 肅	bddf	126308
-肈	hkba	15
+肈	dkba	15
 肊	wyiy	1321
 肍	wrjy	0
 肎	xwym	45901
@@ -15520,7 +15520,7 @@ columns:
 艍	ubjg	2
 艎	udjw	4
 艐	uswt	0
-艑	uhce	1
+艑	udce	1
 艒	ucij	0
 艓	usam	1
 艔	umsb	0
@@ -15740,7 +15740,7 @@ columns:
 菵	scqt	0
 菶	soak	0
 菷	sbxu	0
-菺	shwy	0
+菺	sdwy	0
 菻	saam	25
 菼	siih	22
 菾	sfok	7
@@ -15782,7 +15782,7 @@ columns:
 萵	srko	600
 萶	sojr	0
 萷	siwm	0
-萹	shce	5
+萹	sdce	5
 萺	scij	1
 萻	skjr	0
 萾	sgbu	0
@@ -15961,7 +15961,7 @@ columns:
 蔭	syrn	11079
 蔮	swkf	0
 蔯	syaj	0
-蔰	shlo	1
+蔰	sdlo	1
 蔱	ssae	0
 蔲	sift	0
 蔳	snhw	1
@@ -16077,7 +16077,7 @@ columns:
 藆	sisf	0
 藇	sdhk	0
 藈	sjbo	0
-藊	smhc	0
+藊	smdc	0
 藋	svve	2
 藌	sirq	0
 藍	shgu	432225
@@ -16316,7 +16316,7 @@ columns:
 蜠	qwmh	0
 蜤	adqc	0
 蜦	qrfc	0
-蜧	qhhq	1
+蜧	qdhq	1
 蜨	qfbp	12631
 蜪	qwjf	2
 蜫	qjnn	1
@@ -17071,7 +17071,7 @@ columns:
 諛	bdre	3134
 諜	bsam	18587
 諝	bypw	66
-諞	bhce	407
+諞	bdce	407
 諟	bjfp	1
 諠	biff	44
 諡	bkhu	1660
@@ -17111,7 +17111,7 @@ columns:
 謃	bjps	0
 謄	wqob	1318
 謅	bwww	3054
-謆	bhvv	0
+謆	bdvv	0
 謈	jskb	1
 謉	bdgy	1
 謊	bstw	59363
@@ -17301,7 +17301,7 @@ columns:
 豜	tfso	1
 豝	tobs	17
 豞	twlv	0
-豟	thyi	0
+豟	tdyi	0
 豠	tjqs	0
 豣	tnng	0
 豤	tggs	16
@@ -17766,7 +17766,7 @@ columns:
 軳	dwos	0
 軴	dkjw	0
 軵	dekc	2
-軶	dhyi	0
+軶	ddyi	0
 軷	debk	0
 軸	ddoc	18314
 軹	dlka	112
@@ -18524,7 +18524,7 @@ columns:
 錎	txdi	3
 錏	tfka	2
 錐	tehj	13230
-錑	thhq	1
+錑	tdhq	1
 錒	tyjl	143
 錓	tqei	0
 錔	tnjr	0
@@ -18630,7 +18630,7 @@ columns:
 鍺	thjr	209
 鍻	tjwe	0
 鍼	tkfl	27641
-鍽	thce	0
+鍽	tdce	0
 鍿	tlfv	0
 鎀	teuc	0
 鎁	tlyf	3
@@ -19009,7 +19009,7 @@ columns:
 闖	dwmm	81435
 闗	dnni	0
 闘	dflk	4
-闙	dhlt	0
+闙	ddlt	0
 闚	dojj	7440
 闛	diht	0
 關	dnnw	1675950
@@ -19045,7 +19045,7 @@ columns:
 阯	ypif	10854
 阰	ynnb	1
 阷	yfpi	0
-阸	yhyi	1
+阸	ydyi	1
 阹	yhna	3
 阺	ykxk	6
 阾	yrkb	1
@@ -19434,7 +19434,7 @@ columns:
 顂	avjb	0
 顃	iivj	0
 顄	ynwj	0
-顅	hwvj	0
+顅	dwvj	0
 顆	javj	179825
 顇	arrj	5722
 顈	novj	0
@@ -19468,7 +19468,7 @@ columns:
 顤	hhhj	0
 顥	jaij	2576
 顦	eivj	5017
-顧	hevj	523309
+顧	devj	523309
 顨	vjvl	1
 顩	rvjb	0
 顪	pkfj	0
@@ -19705,7 +19705,7 @@ columns:
 馼	wtem	0
 馽	wlus	2
 馾	wxwr	0
-馿	whhm	3
+馿	wdhm	3
 駀	wfom	0
 駁	wssi	40100
 駂	ngwm	0
@@ -19793,9 +19793,9 @@ columns:
 騔	wjwe	0
 騕	wpcn	6
 騖	kgtw	2794
-騗	hcwm	0
+騗	dcwm	0
 騘	wwcr	0
-騙	whce	178727
+騙	wdce	178727
 騚	wqwm	0
 騛	wyfm	0
 騜	wdjw	0
@@ -19826,7 +19826,7 @@ columns:
 騵	wvdi	0
 騶	wwww	255
 騷	wbkq	72005
-騸	whvv	415
+騸	wdvv	415
 騹	wsir	3
 騺	hqgw	2
 騻	woss	0
@@ -20042,7 +20042,7 @@ columns:
 魯	vjrv	232625
 魰	vtev	0
 魱	vfem	0
-魲	vhhv	0
+魲	vdhv	0
 魳	vfuj	0
 魴	vtfv	281
 魵	vkmd	0
@@ -20183,7 +20183,7 @@ columns:
 鯼	vswt	0
 鯽	vbna	1602
 鯾	vefs	9
-鯿	vhce	97
+鯿	vdce	97
 鰀	vunb	0
 鰁	vdns	7
 鰂	vjmd	10
@@ -20361,7 +20361,7 @@ columns:
 鳵	ygdn	0
 鳶	kdni	4901
 鳷	gbdn	4
-鳸	hdnh	36
+鳸	ddnh	36
 鳹	rkyd	2
 鳺	odnf	2
 鳻	kmdn	2
@@ -20484,7 +20484,7 @@ columns:
 鵰	whld	21156
 鵱	hkhd	2
 鵲	sjdn	7894
-鵳	hwdn	0
+鵳	dwdn	0
 鵴	wqdn	2
 鵵	xlwd	4
 鵶	fkdn	10923
@@ -20532,7 +20532,7 @@ columns:
 鶠	hjcd	1
 鶡	jwrd	36
 鶢	unbd	0
-鶣	hcdn	1
+鶣	dcdn	1
 鶤	xddn	0
 鶥	bjdn	40
 鶦	jwdn	1
@@ -20947,10 +20947,10 @@ columns:
 䜩	dsfi	0
 䝼	jhwy	0
 䞍	chwy	0
-䥇	thvv	0
+䥇	tdvv	0
 䥺	ohaj	0
 䥽	owbk	0
-䦂	ohvv	0
+䦂	odvv	0
 䦃	oshj	0
 䦅	oqql	0
 䦆	ojjb	0
@@ -21198,7 +21198,7 @@ columns:
 㑣	eaam	0
 㑤	esvt	0
 㑥	ejwc	0
-㑦	ehhq	0
+㑦	edhq	0
 㑧	emkz	0
 㑨	elji	0
 㑩	euxx	0
@@ -21336,7 +21336,7 @@ columns:
 㓯	lvmd	0
 㓰	fdwm	0
 㓱	rfwm	0
-㓲	hcmd	0
+㓲	dcmd	0
 㓳	jfpm	0
 㓴	somd	0
 㓵	llfm	0
@@ -21994,7 +21994,7 @@ columns:
 㞅	fjam	0
 㞆	fojl	0
 㞇	fvmc	0
-㞈	fhce	0
+㞈	fdce	0
 㞉	fqpg	0
 㞊	wwjf	0
 㞋	bbos	0
@@ -22557,11 +22557,11 @@ columns:
 㦻	vvdk	0
 㦼	odkg	0
 㦽	ewkl	0
-㦾	hoeh	0
-㦿	hamh	0
-㧀	hgkd	0
-㧁	hhna	0
-㧂	hvth	0
+㦾	doeh	0
+㦿	damh	0
+㧀	dgyb	0
+㧁	dhna	0
+㧂	dvth	0
 㧃	fwjs	0
 㧄	fwks	0
 㧅	fmds	0
@@ -22579,7 +22579,7 @@ columns:
 㧓	fugs	0
 㧔	fkws	0
 㧕	fkms	0
-㧖	fhyi	0
+㧖	fdyi	0
 㧗	fpnb	0
 㧘	pnfs	0
 㧙	frgp	0
@@ -22665,7 +22665,7 @@ columns:
 㨪	fjil	0
 㨫	fugu	0
 㨬	fhlg	0
-㨭	fhlo	0
+㨭	fdlo	0
 㨮	fdkw	0
 㨯	faky	0
 㨰	fakg	0
@@ -22763,7 +22763,7 @@ columns:
 㪍	gxkt	0
 㪎	orrb	0
 㪏	dgub	0
-㪐	hhub	0
+㪐	dhub	0
 㪑	odub	0
 㪒	dwub	0
 㪓	mqnb	0
@@ -23062,7 +23062,7 @@ columns:
 㮹	adtu	0
 㮺	afll	0
 㮻	abkq	0
-㮼	ahvv	0
+㮼	advv	0
 㮽	aues	0
 㮾	kbna	0
 㮿	ajsa	0
@@ -23291,7 +23291,7 @@ columns:
 㲟	scom	0
 㲠	ftmm	0
 㲡	ajmm	0
-㲢	hcmm	0
+㲢	dcmm	0
 㲣	dubm	0
 㲤	afgm	0
 㲥	mblm	0
@@ -23387,7 +23387,7 @@ columns:
 㴀	nsgo	0
 㴁	nfok	0
 㴂	npch	0
-㴃	nhns	0
+㴃	ndns	0
 㴄	nwkc	0
 㴅	nwkl	0
 㴆	nbxu	0
@@ -23412,7 +23412,7 @@ columns:
 㴙	nmdi	0
 㴚	nqts	0
 㴛	ndtu	0
-㴜	nhce	0
+㴜	ndce	0
 㴝	mmrn	0
 㴞	nuuj	0
 㴟	nvjk	0
@@ -23862,7 +23862,7 @@ columns:
 㻛	jjwc	0
 㻜	jrrp	0
 㻝	jalm	0
-㻞	jhce	0
+㻞	jdce	0
 㻟	jepw	0
 㻠	jihq	0
 㻡	jsam	0
@@ -23912,7 +23912,7 @@ columns:
 㼍	dkug	0
 㼎	uaks	0
 㼏	ucug	0
-㼐	hcug	0
+㼐	dcug	0
 㼑	awqu	0
 㼒	ujfc	0
 㼓	uqbk	0
@@ -24067,7 +24067,7 @@ columns:
 㾨	mojl	0
 㾩	mmqn	0
 㾪	migj	0
-㾫	mhce	0
+㾫	mdce	0
 㾬	mnnd	0
 㾭	mmih	0
 㾮	mdjw	0
@@ -24224,8 +24224,8 @@ columns:
 䁅	jkum	0
 䁆	jodd	0
 䁇	irgj	0
-䁈	htjm	0
-䁉	hkjm	0
+䁈	dtjm	0
+䁉	dkjm	0
 䁊	jbkj	0
 䁋	jsam	0
 䁌	jvwy	0
@@ -24668,7 +24668,7 @@ columns:
 䈃	gnml	0
 䈄	gynw	0
 䈅	gklf	0
-䈆	ghhq	0
+䈆	gdhq	0
 䈇	gujz	0
 䈈	gwob	0
 䈉	gkcn	0
@@ -24854,7 +24854,7 @@ columns:
 䊽	obre	0
 䊾	oams	0
 䊿	oofs	0
-䋀	hosh	0
+䋀	dosh	0
 䋁	oaej	0
 䋂	ossi	0
 䋃	omms	0
@@ -24882,7 +24882,7 @@ columns:
 䋙	oles	0
 䋚	ovvx	0
 䋛	oqms	0
-䋜	hbos	0
+䋜	dbos	0
 䋝	oncn	0
 䋞	ocss	0
 䋟	oori	0
@@ -24901,7 +24901,7 @@ columns:
 䋬	ofok	0
 䋭	oanw	0
 䋮	otjs	0
-䋯	hkos	0
+䋯	dkos	0
 䋰	jkos	0
 䋱	oals	0
 䋲	oldd	0
@@ -25169,7 +25169,7 @@ columns:
 䏼	wkkg	0
 䏽	wklv	0
 䏾	woak	0
-䏿	htwy	0
+䏿	dtwy	0
 䐀	wojl	0
 䐁	wtkd	0
 䐂	wbns	0
@@ -25190,7 +25190,7 @@ columns:
 䐑	wsam	0
 䐒	woxx	0
 䐓	wvjb	0
-䐔	whce	0
+䐔	wdce	0
 䐕	wlle	0
 䐖	wbqm	0
 䐗	whjr	0
@@ -25289,7 +25289,7 @@ columns:
 䑴	uuqo	0
 䑵	uciw	0
 䑶	uhwy	0
-䑷	uhwy	0
+䑷	udwy	0
 䑸	uijs	0
 䑹	uiib	0
 䑺	uefo	0
@@ -25391,7 +25391,7 @@ columns:
 䓛	sbww	0
 䓜	snkk	0
 䓝	skum	0
-䓞	shhq	0
+䓞	sdhq	0
 䓟	swhl	0
 䓠	snjr	0
 䓡	sjlv	0
@@ -26264,7 +26264,7 @@ columns:
 䡋	dgbo	0
 䡌	dena	0
 䡍	dofc	0
-䡎	dhhc	0
+䡎	ddhc	0
 䡏	dbna	0
 䡐	dinb	0
 䡑	doxi	0
@@ -26284,7 +26284,7 @@ columns:
 䡟	ddgi	0
 䡠	dujb	0
 䡡	dnnd	0
-䡢	dhce	0
+䡢	ddce	0
 䡣	dxdc	0
 䡤	hjdc	0
 䡥	dirl	0
@@ -26292,7 +26292,7 @@ columns:
 䡧	ddwc	0
 䡨	qpdc	0
 䡩	dgjk	0
-䡪	dhvv	0
+䡪	ddvv	0
 䡫	dtdo	0
 䡬	djub	0
 䡭	dqbc	0
@@ -28252,7 +28252,7 @@ columns:
 𠉮	eqos	0
 𠉯	egbc	0
 𠉰	eumr	0
-𠉱	ehtf	0
+𠉱	edtf	0
 𠉲	robh	0
 𠉳	egfm	0
 𠉴	ecvr	0
@@ -28291,7 +28291,7 @@ columns:
 𠊕	ebfi	0
 𠊖	elxm	0
 𠊗	evbo	0
-𠊘	ehwy	0
+𠊘	edwy	0
 𠊙	eijq	0
 𠊚	ejfk	0
 𠊛	jfkr	0
@@ -28336,7 +28336,7 @@ columns:
 𠋂	exli	0
 𠋃	exke	0
 𠋄	eqcn	0
-𠋅	rhce	0
+𠋅	rdce	0
 𠋆	ekam	0
 𠋇	eqyf	0
 𠋈	etod	0
@@ -29476,7 +29476,7 @@ columns:
 𠜷	ujnm	0
 𠜸	nnnm	0
 𠜹	jomd	0
-𠜺	hhmd	0
+𠜺	dhmd	0
 𠜻	klfm	0
 𠜼	xdmd	0
 𠜽	ssam	0
@@ -29573,7 +29573,7 @@ columns:
 𠞘	arnm	0
 𠞙	mrim	0
 𠞚	xaum	0
-𠞛	hvvm	0
+𠞛	dvvm	0
 𠞜	lcmm	0
 𠞝	slxm	0
 𠞞	udmd	0
@@ -30279,7 +30279,7 @@ columns:
 𠩛	vwrr	0
 𠩜	vrrh	0
 𠩝	vhtf	0
-𠩞	vhkz	0
+𠩞	vdkz	0
 𠩟	vhrr	0
 𠩠	vjbh	0
 𠩡	vedb	0
@@ -30315,7 +30315,7 @@ columns:
 𠩿	vvso	0
 𠪀	vjlg	0
 𠪁	vmxq	0
-𠪂	vhce	0
+𠪂	vdce	0
 𠪃	vbjm	0
 𠪄	vsvt	0
 𠪅	vbib	0
@@ -30655,7 +30655,7 @@ columns:
 𠯓	dlvj	0
 𠯔	llei	0
 𠯕	llei	0
-𠯖	lhhv	0
+𠯖	ldhv	0
 𠯗	lfuj	0
 𠯘	ldbo	0
 𠯙	likd	0
@@ -30867,7 +30867,7 @@ columns:
 𠲧	lkpg	0
 𠲨	lnoe	0
 𠲩	akjg	0
-𠲪	lhaj	0
+𠲪	ldaj	0
 𠲫	lyww	0
 𠲬	lhcv	0
 𠲭	lnxq	0
@@ -31132,10 +31132,10 @@ columns:
 𠶰	xkwl	0
 𠶱	jltl	0
 𠶲	lvjf	0
-𠶳	helv	0
+𠶳	delv	0
 𠶴	lyau	0
 𠶵	luwk	0
-𠶶	hlkg	0
+𠶶	dlkg	0
 𠶷	klul	0
 𠶸	lkra	0
 𠶹	logy	0
@@ -31185,7 +31185,7 @@ columns:
 𠷥	lajd	0
 𠷦	lxls	0
 𠷧	lkfi	0
-𠷨	lhce	0
+𠷨	ldce	0
 𠷩	lqcn	0
 𠷪	lihl	0
 𠷫	gllg	0
@@ -31292,7 +31292,7 @@ columns:
 𠹐	lrrt	0
 𠹑	lqam	0
 𠹒	lill	0
-𠹓	lhjf	0
+𠹓	ldjf	0
 𠹔	lmbl	0
 𠹕	lmwk	0
 𠹖	lbsm	0
@@ -32553,7 +32553,7 @@ columns:
 𡌽	hmul	0
 𡌾	hkcp	0
 𡌿	haiv	0
-𡍀	hhtf	0
+𡍀	hdtf	0
 𡍁	agbh	0
 𡍂	vrrh	0
 𡍃	yekh	0
@@ -32643,7 +32643,7 @@ columns:
 𡎗	hlfm	0
 𡎘	hsco	0
 𡎙	pxbh	0
-𡎚	hhce	0
+𡎚	hdce	0
 𡎛	hkmu	0
 𡎜	hgcg	0
 𡎝	hbfo	0
@@ -32931,7 +32931,7 @@ columns:
 𡒷	hmgv	0
 𡒸	hbqj	0
 𡒹	hshq	0
-𡒺	hghc	0
+𡒺	hgdc	0
 𡒻	hddj	0
 𡒼	hlch	0
 𡒽	hwhh	0
@@ -33356,7 +33356,7 @@ columns:
 𡙡	qiod	0
 𡙢	qkmo	0
 𡙣	ovjt	0
-𡙤	ohag	0
+𡙤	odag	0
 𡙥	owtn	0
 𡙦	wwwo	0
 𡙧	obst	0
@@ -33610,7 +33610,7 @@ columns:
 𡝟	cmmq	0
 𡝠	bxic	0
 𡝡	bric	0
-𡝢	chhq	0
+𡝢	cdhq	0
 𡝣	icns	0
 𡝤	lglc	0
 𡝥	cxka	0
@@ -35135,7 +35135,7 @@ columns:
 𡵕	waus	0
 𡵖	uihs	0
 𡵗	ueod	0
-𡵘	uhhs	0
+𡵘	udhs	0
 𡵙	ukaj	0
 𡵚	urka	0
 𡵛	uksi	0
@@ -35178,7 +35178,7 @@ columns:
 𡶀	ucre	0
 𡶁	uxwk	0
 𡶂	uvir	0
-𡶃	uhyi	0
+𡶃	udyi	0
 𡶄	uwos	0
 𡶅	uhlv	0
 𡶆	uhlv	0
@@ -35321,7 +35321,7 @@ columns:
 𡸏	uekl	0
 𡸐	uwkm	0
 𡸑	ujwc	0
-𡸒	uhhq	0
+𡸒	udhq	0
 𡸓	wrrr	0
 𡸔	uehh	0
 𡸕	uibg	0
@@ -35351,7 +35351,7 @@ columns:
 𡸭	fkus	0
 𡸮	ubns	0
 𡸯	uuam	0
-𡸰	uhtf	0
+𡸰	udtf	0
 𡸱	uijr	0
 𡸲	udei	0
 𡸳	ugsl	0
@@ -35410,7 +35410,7 @@ columns:
 𡹨	ujxb	0
 𡹩	hbus	0
 𡹪	uklf	0
-𡹫	uhcl	0
+𡹫	udcl	0
 𡹬	urks	0
 𡹭	uidz	0
 𡹮	urso	0
@@ -35433,7 +35433,7 @@ columns:
 𡹿	uogw	0
 𡺀	uitl	0
 𡺁	ubib	0
-𡺂	uhce	0
+𡺂	udce	0
 𡺃	uqxk	0
 𡺄	uafk	0
 𡺅	ubag	0
@@ -35541,7 +35541,7 @@ columns:
 𡻫	uall	0
 𡻬	utgj	0
 𡻭	uvos	0
-𡻮	uhlo	0
+𡻮	udlo	0
 𡻯	uoss	0
 𡻰	uwjs	0
 𡻱	uvos	0
@@ -36031,7 +36031,7 @@ columns:
 𢃕	unjr	0
 𢃖	uwhl	0
 𢃗	uynw	0
-𢃘	htuj	0
+𢃘	dtuj	0
 𢃙	uibb	0
 𢃚	ujnn	0
 𢃛	uujq	0
@@ -36089,7 +36089,7 @@ columns:
 𢄏	isku	0
 𢄐	uxft	0
 𢄑	uqou	0
-𢄒	uhvv	0
+𢄒	udvv	0
 𢄓	udwj	0
 𢄔	gsfu	0
 𢄕	rtiu	0
@@ -36421,7 +36421,7 @@ columns:
 𢉛	mwcr	0
 𢉜	mhjr	0
 𢉝	mvmc	0
-𢉞	mhce	0
+𢉞	mdce	0
 𢉟	mcgg	0
 𢉠	mglj	0
 𢉡	menj	0
@@ -36842,7 +36842,7 @@ columns:
 𢐀	bbfr	0
 𢐁	bobg	0
 𢐂	bjfp	0
-𢐃	bhce	0
+𢐃	bdce	0
 𢐄	bets	0
 𢐅	bcbc	0
 𢐆	bllb	0
@@ -37598,7 +37598,7 @@ columns:
 𢛴	rkum	0
 𢛵	ruby	0
 𢛶	huri	0
-𢛷	rhtf	0
+𢛷	rdtf	0
 𢛸	rifp	0
 𢛹	rqjw	0
 𢛺	rfwo	0
@@ -38320,7 +38320,7 @@ columns:
 𢧇	gkkt	0
 𢧈	tkkg	0
 𢧉	sjkg	0
-𢧊	hakg	0
+𢧊	dakg	0
 𢧋	klfj	0
 𢧌	klfj	0
 𢧍	jjkg	0
@@ -38411,68 +38411,68 @@ columns:
 𢨢	akwj	0
 𢨣	gkql	0
 𢨤	deih	0
-𢨥	fhhi	0
-𢨦	hgih	0
+𢨥	fdhi	0
+𢨦	dgih	0
 𢨧	hirh	0
 𢨨	hreh	0
-𢨩	hnbh	0
-𢨪	hosh	0
+𢨩	dnbh	0
+𢨪	dosh	0
 𢨫	hhth	0
 𢨬	dsoh	0
 𢨭	dcnh	0
 𢨮	hmqh	0
-𢨯	hhhh	0
+𢨯	ddhh	0
 𢨰	hksi	0
 𢨱	hkna	0
-𢨲	htfh	0
+𢨲	dtfh	0
 𢨳	hhhh	0
-𢨴	hobh	0
+𢨴	dobh	0
 𢨵	hggi	0
 𢨶	hklh	0
-𢨷	hjqh	0
-𢨸	hkjw	0
-𢨹	hgoe	0
-𢨺	hkmh	0
+𢨷	djqh	0
+𢨸	dkjw	0
+𢨹	dgoe	0
+𢨺	dkmh	0
 𢨻	djih	0
 𢨼	dueh	0
 𢨽	dgqk	0
-𢨾	hghq	0
+𢨾	dghq	0
 𢨿	hfcr	0
 𢩀	hwak	0
-𢩁	hwlv	0
+𢩁	dwlv	0
 𢩂	hyih	0
 𢩃	hnsl	0
-𢩄	hngi	0
-𢩅	hrhh	0
-𢩆	hggh	0
-𢩇	hleh	0
-𢩈	hdzh	0
+𢩄	dngi	0
+𢩅	drhh	0
+𢩆	dggh	0
+𢩇	dleh	0
+𢩈	ddzh	0
 𢩉	hska	0
 𢩊	hilw	0
 𢩋	dhlv	0
 𢩌	hcrr	0
-𢩍	hnjg	0
+𢩍	dnjg	0
 𢩎	dnjr	0
 𢩏	hgfp	0
 𢩐	hrku	0
-𢩑	hhkt	0
-𢩒	hwob	0
-𢩓	hhqg	0
+𢩑	dhwt	0
+𢩒	dwob	0
+𢩓	dhqg	0
 𢩔	hfka	0
-𢩕	hhhh	0
-𢩖	hmdi	0
+𢩕	dddh	0
+𢩖	dndi	0
 𢩗	bihh	0
-𢩘	hhnu	0
-𢩙	hlhl	0
-𢩚	hcyl	0
+𢩘	dhnu	0
+𢩙	dldl	0
+𢩚	dcyl	0
 𢩛	hpjb	0
 𢩜	htgj	0
-𢩝	hlhh	0
+𢩝	dldd	0
 𢩞	hkuz	0
 𢩟	orrc	0
-𢩠	hufg	0
-𢩡	hoak	0
-𢩢	hxlk	0
+𢩠	dufg	0
+𢩡	doak	0
+𢩢	dxlk	0
 𢩣	htso	0
 𢩤	hejb	0
 𢩥	fyis	0
@@ -38639,7 +38639,7 @@ columns:
 𢬆	fxbc	0
 𢬇	fikc	0
 𢬈	fqod	0
-𢬉	fhnb	0
+𢬉	fdnb	0
 𢬊	fqms	0
 𢬋	frkh	0
 𢬌	fnbk	0
@@ -38762,7 +38762,7 @@ columns:
 𢮁	ftri	0
 𢮂	fban	0
 𢮃	mwgf	0
-𢮄	fham	0
+𢮄	fdam	0
 𢮅	fvso	0
 𢮆	fvgg	0
 𢮇	fhem	0
@@ -39032,14 +39032,14 @@ columns:
 𢲏	fmqj	0
 𢲐	fdfu	0
 𢲑	fgmy	0
-𢲒	fhvv	0
+𢲒	fdvv	0
 𢲓	dofs	0
 𢲔	fjqj	0
 𢲕	fbji	0
 𢲖	flhh	0
 𢲗	fujs	0
 𢲘	fioq	0
-𢲙	fhag	0
+𢲙	fdag	0
 𢲚	fyfl	0
 𢲛	fchz	0
 𢲜	fegi	0
@@ -39144,7 +39144,7 @@ columns:
 𢳿	fmfp	0
 𢴀	fier	0
 𢴁	fsfo	0
-𢴂	fhhc	0
+𢴂	fhdc	0
 𢴃	ffyk	0
 𢴄	fuvv	0
 𢴅	famm	0
@@ -39222,7 +39222,7 @@ columns:
 𢵍	ffxa	0
 𢵎	fsfn	0
 𢵏	fpum	0
-𢵐	fhwh	0
+𢵐	fdwh	0
 𢵑	flqo	0
 𢵒	fhml	0
 𢵓	fhcp	0
@@ -39236,7 +39236,7 @@ columns:
 𢵛	fsua	0
 𢵜	fppp	0
 𢵝	fhsv	0
-𢵞	fhuf	0
+𢵞	fduf	0
 𢵟	fcoj	0
 𢵠	xsmf	0
 𢵡	txfs	0
@@ -39492,7 +39492,7 @@ columns:
 𢹛	fvqy	0
 𢹜	fsks	0
 𢹝	fcll	0
-𢹞	fhug	0
+𢹞	fdug	0
 𢹟	fjnj	0
 𢹠	fvmu	0
 𢹡	fpud	0
@@ -39594,7 +39594,7 @@ columns:
 𢻁	xckb	0
 𢻂	jgbo	0
 𢻃	jigb	0
-𢻄	hwgb	0
+𢻄	dwgb	0
 𢻅	csgb	0
 𢻆	rgbo	0
 𢻇	xlgb	0
@@ -39622,7 +39622,7 @@ columns:
 𢻝	hkhb	0
 𢻞	dfkb	0
 𢻟	iiib	0
-𢻠	hegb	0
+𢻠	degb	0
 𢻡	uljb	0
 𢻢	oqjb	0
 𢻣	jplb	0
@@ -39649,7 +39649,7 @@ columns:
 𢻸	wiub	0
 𢻹	nntu	0
 𢻺	eetu	0
-𢻻	hubo	0
+𢻻	dubo	0
 𢻼	xwub	0
 𢻽	fnub	0
 𢻾	atum	0
@@ -39680,7 +39680,7 @@ columns:
 𢼗	jubo	0
 𢼘	sjtu	0
 𢼙	lwtu	0
-𢼚	hytu	0
+𢼚	dytu	0
 𢼛	tlub	0
 𢼜	ttui	0
 𢼝	qubo	0
@@ -39768,7 +39768,7 @@ columns:
 𢽯	axnt	0
 𢽰	bxut	0
 𢽱	odtu	0
-𢽲	hhtu	0
+𢽲	dhtu	0
 𢽳	aatu	0
 𢽴	tktu	0
 𢽵	ciwt	0
@@ -39819,7 +39819,7 @@ columns:
 𢾢	uxkt	0
 𢾣	xkat	0
 𢾤	uetu	0
-𢾥	hjub	0
+𢾥	djub	0
 𢾦	msub	0
 𢾧	ynfb	0
 𢾨	mwgb	0
@@ -39839,7 +39839,7 @@ columns:
 𢾶	grrt	0
 𢾷	uftt	0
 𢾸	lgub	0
-𢾹	hbat	0
+𢾹	dbat	0
 𢾺	hutu	0
 𢾻	huub	0
 𢾼	bibt	0
@@ -39891,7 +39891,7 @@ columns:
 𢿪	aqxb	0
 𢿫	alup	0
 𢿬	dnct	0
-𢿭	htuj	0
+𢿭	dtuj	0
 𢿮	ubcb	0
 𢿯	svlt	0
 𢿰	hxft	0
@@ -40405,7 +40405,7 @@ columns:
 𣇬	jibg	0
 𣇭	jcps	0
 𣇮	adjr	0
-𣇯	jhhh	0
+𣇯	jddh	0
 𣇰	jaam	0
 𣇱	cjcj	0
 𣇲	jkxj	0
@@ -40956,7 +40956,7 @@ columns:
 𣐓	abir	0
 𣐔	abbo	0
 𣐕	abpg	0
-𣐖	ahyi	0
+𣐖	adyi	0
 𣐗	ewga	0
 𣐘	anjd	0
 𣐙	aana	0
@@ -41117,7 +41117,7 @@ columns:
 𣒴	amgn	0
 𣒵	aotu	0
 𣒶	aakz	0
-𣒷	mham	0
+𣒷	mdam	0
 𣒸	aljw	0
 𣒹	aigc	0
 𣒺	abam	0
@@ -41131,7 +41131,7 @@ columns:
 𣓂	atvt	0
 𣓃	ascr	0
 𣓄	ampn	0
-𣓅	aham	0
+𣓅	adam	0
 𣓆	aumr	0
 𣓇	hhma	0
 𣓈	afuk	0
@@ -41148,7 +41148,7 @@ columns:
 𣓓	awjh	0
 𣓔	bxia	0
 𣓕	aarn	0
-𣓖	ahwy	0
+𣓖	adwy	0
 𣓗	awcj	0
 𣓘	ahxe	0
 𣓙	aksg	0
@@ -41158,7 +41158,7 @@ columns:
 𣓝	slxa	0
 𣓞	fwam	0
 𣓟	gcfa	0
-𣓠	ahhh	0
+𣓠	addh	0
 𣓡	agld	0
 𣓢	fffa	0
 𣓣	avqw	0
@@ -41173,7 +41173,7 @@ columns:
 𣓬	ndam	0
 𣓭	anjm	0
 𣓮	nmam	0
-𣓯	htam	0
+𣓯	dtam	0
 𣓰	ttam	0
 𣓱	akyf	0
 𣓲	aaqs	0
@@ -41258,7 +41258,7 @@ columns:
 𣕁	chha	0
 𣕂	aqou	0
 𣕃	avvm	0
-𣕄	ahcl	0
+𣕄	adcl	0
 𣕅	amwo	0
 𣕆	akhu	0
 𣕇	iwma	0
@@ -41515,7 +41515,7 @@ columns:
 𣙂	qona	0
 𣙃	amsi	0
 𣙄	anay	0
-𣙅	hlka	0
+𣙅	dlka	0
 𣙆	aanf	0
 𣙇	heam	0
 𣙈	gjal	0
@@ -41615,7 +41615,7 @@ columns:
 𣚦	ablq	0
 𣚧	lhda	0
 𣚨	sfaa	0
-𣚩	hlja	0
+𣚩	dlja	0
 𣚪	atgp	0
 𣚫	anhj	0
 𣚬	aohl	0
@@ -41946,7 +41946,7 @@ columns:
 𣟱	adhd	0
 𣟲	avqy	0
 𣟳	aufo	0
-𣟴	ahug	0
+𣟴	adug	0
 𣟵	aufk	0
 𣟶	smea	0
 𣟷	auut	0
@@ -42113,7 +42113,7 @@ columns:
 𣢘	dxqs	0
 𣢙	pnxq	0
 𣢚	uxqg	0
-𣢛	hyxq	0
+𣢛	dyxq	0
 𣢜	nsxq	0
 𣢝	rkbx	0
 𣢞	bnxq	0
@@ -42534,7 +42534,7 @@ columns:
 𣨽	fxso	0
 𣨾	fxjp	0
 𣨿	fxxd	0
-𣩀	fxhc	0
+𣩀	fxdc	0
 𣩁	fxnd	0
 𣩂	fdfn	0
 𣩃	fxba	0
@@ -42848,7 +42848,7 @@ columns:
 𣭷	gxkm	0
 𣭸	jnmm	0
 𣭹	mnmm	0
-𣭺	heim	0
+𣭺	deim	0
 𣭻	pmmz	0
 𣭼	bnmm	0
 𣭽	mmmc	0
@@ -43375,7 +43375,7 @@ columns:
 𣶆	nibg	0
 𣶇	nfcc	0
 𣶈	ncqt	0
-𣶉	nhig	0
+𣶉	ndig	0
 𣶊	nyvj	0
 𣶋	nwih	0
 𣶌	nkxt	0
@@ -43450,7 +43450,7 @@ columns:
 𣷑	nubc	0
 𣷒	nkrj	0
 𣷓	nmlv	0
-𣷔	nhtf	0
+𣷔	ndtf	0
 𣷕	nobo	0
 𣷖	trns	0
 𣷗	lbns	0
@@ -43514,7 +43514,7 @@ columns:
 𣸑	nafa	0
 𣸒	nvkx	0
 𣸓	nnnq	0
-𣸔	nhjs	0
+𣸔	ndjs	0
 𣸕	ikdn	0
 𣸖	nmqg	0
 𣸗	ftns	0
@@ -45897,7 +45897,7 @@ columns:
 𤝡	dhqb	0
 𤝢	hbak	0
 𤝣	hkns	0
-𤝤	hhyi	0
+𤝤	hdyi	0
 𤝥	htub	0
 𤝦	hekg	0
 𤝧	hewk	0
@@ -46006,7 +46006,7 @@ columns:
 𤟎	hbww	0
 𤟏	jibh	0
 𤟐	vdmh	0
-𤟑	hhhq	0
+𤟑	hdhq	0
 𤟒	dxhq	0
 𤟓	sfuh	0
 𤟔	hucq	0
@@ -46042,7 +46042,7 @@ columns:
 𤟲	hqcn	0
 𤟳	hwlm	0
 𤟴	hxdc	0
-𤟵	hjhq	0
+𤟵	djhq	0
 𤟶	bubh	0
 𤟷	hvfp	0
 𤟸	hdtu	0
@@ -46170,7 +46170,7 @@ columns:
 𤡲	hdfs	0
 𤡳	hajt	0
 𤡴	llqh	0
-𤡵	hehq	0
+𤡵	dehq	0
 𤡶	hgsg	0
 𤡷	hnha	0
 𤡸	hxlt	0
@@ -46435,7 +46435,7 @@ columns:
 𤥻	jgpg	0
 𤥼	jknr	0
 𤥽	jtri	0
-𤥾	jham	0
+𤥾	jdam	0
 𤥿	jaek	0
 𤦀	bxik	0
 𤦁	hbjk	0
@@ -46587,7 +46587,7 @@ columns:
 𤨓	jsra	0
 𤨔	jufg	0
 𤨕	jssl	0
-𤨖	jhlo	0
+𤨖	jdlo	0
 𤨗	uwbk	0
 𤨘	jtkx	0
 𤨙	ssjk	0
@@ -46831,7 +46831,7 @@ columns:
 𤬇	uoug	0
 𤬈	ebju	0
 𤬉	bfou	0
-𤬊	uhce	0
+𤬊	udce	0
 𤬋	urkg	0
 𤬌	etug	0
 𤬍	wjug	0
@@ -47723,7 +47723,7 @@ columns:
 𤺄	mkvl	0
 𤺅	mwwb	0
 𤺆	mvsk	0
-𤺇	mchc	0
+𤺇	mcdc	0
 𤺈	mbhj	0
 𤺉	mugw	0
 𤺊	mudj	0
@@ -47834,7 +47834,7 @@ columns:
 𤻳	mvvv	0
 𤻴	mwqn	0
 𤻵	miek	0
-𤻶	mohc	0
+𤻶	modc	0
 𤻷	mueu	0
 𤻸	merp	0
 𤻹	msvq	0
@@ -48361,7 +48361,7 @@ columns:
 𥄂	gjfi	0
 𥄃	ujmz	0
 𥄄	juzm	0
-𥄅	jhhm	0
+𥄅	jdhm	0
 𥄆	jfna	0
 𥄇	kxjm	0
 𥄈	akjm	0
@@ -49330,7 +49330,7 @@ columns:
 𥓋	vdwr	0
 𥓌	vqei	0
 𥓍	jibv	0
-𥓎	vhhq	0
+𥓎	vdhq	0
 𥓏	vbns	0
 𥓐	vfbp	0
 𥓑	vsam	0
@@ -49429,7 +49429,7 @@ columns:
 𥔮	vute	0
 𥔯	vwlo	0
 𥔰	vmwk	0
-𥔱	vhvv	0
+𥔱	vdvv	0
 𥔲	vllh	0
 𥔳	hfvs	0
 𥔴	vpvs	0
@@ -49821,7 +49821,7 @@ columns:
 𥚶	jlle	0
 𥚷	jvwy	0
 𥚸	jvmc	0
-𥚹	jhce	0
+𥚹	jdce	0
 𥚺	jnnd	0
 𥚻	jusr	0
 𥚼	jcrk	0
@@ -49838,7 +49838,7 @@ columns:
 𥛇	jbpp	0
 𥛈	jopp	0
 𥛉	jefd	0
-𥛊	jhvv	0
+𥛊	jdvv	0
 𥛋	jbba	0
 𥛌	jpjb	0
 𥛍	jljb	0
@@ -50219,7 +50219,7 @@ columns:
 𥡄	mxld	0
 𥡅	mdog	0
 𥡆	mdec	0
-𥡇	mhvv	0
+𥡇	mdvv	0
 𥡈	mdoc	0
 𥡉	mcqw	0
 𥡊	mdon	0
@@ -50369,7 +50369,7 @@ columns:
 𥣚	gjom	0
 𥣛	msxt	0
 𥣜	meuo	0
-𥣝	mhcm	0
+𥣝	mdcm	0
 𥣞	mvve	0
 𥣟	mxdi	0
 𥣠	rfgm	0
@@ -51205,7 +51205,7 @@ columns:
 𥰟	ghlg	0
 𥰠	gtgg	0
 𥰡	gact	0
-𥰢	ghvv	0
+𥰢	gdvv	0
 𥰣	gkvt	0
 𥰤	gnaw	0
 𥰥	guno	0
@@ -51576,7 +51576,7 @@ columns:
 𥶒	giia	0
 𥶓	gunn	0
 𥶔	gmib	0
-𥶕	ghnl	0
+𥶕	gdnl	0
 𥶖	guim	0
 𥶗	gnjq	0
 𥶘	gidi	0
@@ -52354,7 +52354,7 @@ columns:
 𦂜	omqg	0
 𦂝	olew	0
 𦂞	xoos	0
-𦂟	htio	0
+𦂟	dtio	0
 𦂠	oaji	0
 𦂡	ooqy	0
 𦂢	odlj	0
@@ -52461,7 +52461,7 @@ columns:
 𦄇	onjh	0
 𦄈	otmd	0
 𦄉	kjio	0
-𦄊	htlo	0
+𦄊	dtlo	0
 𦄋	odns	0
 𦄌	ohkk	0
 𦄍	ooss	0
@@ -52469,7 +52469,7 @@ columns:
 𦄏	oaiw	0
 𦄐	mosl	0
 𦄑	oddb	0
-𦄒	ohhc	0
+𦄒	ohdc	0
 𦄓	odkw	0
 𦄔	oidz	0
 𦄕	ouht	0
@@ -52573,7 +52573,7 @@ columns:
 𦅷	oshj	0
 𦅸	wjuo	0
 𦅹	wklo	0
-𦅺	ohhu	0
+𦅺	odhu	0
 𦅻	houb	0
 𦅼	oxvb	0
 𦅽	erro	0
@@ -53328,7 +53328,7 @@ columns:
 𦑫	bqvv	0
 𦑬	luvc	0
 𦑭	flvv	0
-𦑮	vvhc	0
+𦑮	vvdc	0
 𦑯	vvfp	0
 𦑰	vvlj	0
 𦑱	xevv	0
@@ -53475,7 +53475,7 @@ columns:
 𦓾	dkwm	0
 𦓿	dkuq	0
 𦔀	dkbb	0
-𦔁	dkhn	0
+𦔁	dkdn	0
 𦔂	dkjp	0
 𦔃	dkso	0
 𦔄	dkij	0
@@ -53761,13 +53761,13 @@ columns:
 𦘜	bhrk	0
 𦘝	bfca	0
 𦘞	bnba	0
-𦘟	huba	0
+𦘟	duba	0
 𦘠	bhhj	0
 𦘡	bcrk	0
 𦘢	bhjn	0
 𦘣	bhva	0
 𦘤	bdds	0
-𦘥	hlka	0
+𦘥	dlka	0
 𦘦	hlta	0
 𦘧	bmbf	0
 𦘨	bhwc	0
@@ -53799,7 +53799,7 @@ columns:
 𦙂	vcrr	0
 𦙃	lewy	0
 𦙄	swwy	0
-𦙅	whhy	0
+𦙅	wdhy	0
 𦙆	wkxi	0
 𦙇	wcir	0
 𦙈	wrgi	0
@@ -53875,7 +53875,7 @@ columns:
 𦚎	kwyl	0
 𦚏	kwyl	0
 𦚐	winb	0
-𦚑	hfwy	0
+𦚑	dfwy	0
 𦚒	crrn	0
 𦚓	crra	0
 𦚔	wmlv	0
@@ -54001,9 +54001,9 @@ columns:
 𦜌	whbo	0
 𦜍	wttu	0
 𦜎	wynl	0
-𦜏	whhq	0
+𦜏	wdhq	0
 𦜐	wibb	0
-𦜑	htcr	0
+𦜑	dtcr	0
 𦜒	wfkt	0
 𦜓	wdxq	0
 𦜔	whqm	0
@@ -54013,7 +54013,7 @@ columns:
 𦜘	wuke	0
 𦜙	wmri	0
 𦜚	gbbw	0
-𦜛	whwr	0
+𦜛	wdwr	0
 𦜜	hbcr	0
 𦜝	wtki	0
 𦜞	wssk	0
@@ -54043,7 +54043,7 @@ columns:
 𦜶	wawt	0
 𦜷	wrfj	0
 𦜸	wivc	0
-𦜹	hubw	0
+𦜹	dubw	0
 𦜺	wbek	0
 𦜻	wbbc	0
 𦜼	wecu	0
@@ -55404,12 +55404,12 @@ columns:
 𦲇	swcg	0
 𦲈	srkg	0
 𦲉	snsi	0
-𦲊	sihh	0
+𦲊	sidh	0
 𦲋	sxxa	0
 𦲌	siih	0
 𦲍	snqk	0
 𦲎	sixx	0
-𦲏	shtf	0
+𦲏	sdtf	0
 𦲐	sglu	0
 𦲑	sfon	0
 𦲒	svhh	0
@@ -55661,7 +55661,7 @@ columns:
 𦶈	slci	0
 𦶉	smpn	0
 𦶊	sndh	0
-𦶋	shvv	0
+𦶋	sdvv	0
 𦶌	siwl	0
 𦶍	skug	0
 𦶎	srrg	0
@@ -56101,7 +56101,7 @@ columns:
 𦽀	sggj	0
 𦽁	sofp	0
 𦽂	smhh	0
-𦽃	sdhc	0
+𦽃	sddc	0
 𦽄	sbse	0
 𦽅	sdjl	0
 𦽆	sykk	0
@@ -56129,7 +56129,7 @@ columns:
 𦽜	sikd	0
 𦽝	sevo	0
 𦽞	sbfl	0
-𦽟	shco	0
+𦽟	sdco	0
 𦽠	swwt	0
 𦽡	sahn	0
 𦽢	sgxp	0
@@ -57168,7 +57168,7 @@ columns:
 𧍫	qbwc	0
 𧍬	qrso	0
 𧍭	qdns	0
-𧍮	qhcl	0
+𧍮	qdcl	0
 𧍯	qefc	0
 𧍰	qtfp	0
 𧍱	qidz	0
@@ -57223,7 +57223,7 @@ columns:
 𧎢	qkjb	0
 𧎣	qsle	0
 𧎤	qkgo	0
-𧎥	qhvv	0
+𧎥	qdvv	0
 𧎦	qskk	0
 𧎧	qied	0
 𧎨	qbkx	0
@@ -58368,7 +58368,7 @@ columns:
 𧠛	pjji	0
 𧠜	nljj	0
 𧠝	rcjj	0
-𧠞	hyjj	0
+𧠞	dyjj	0
 𧠟	kxkj	0
 𧠠	oxjj	0
 𧠡	gojj	0
@@ -58414,7 +58414,7 @@ columns:
 𧡉	jksn	0
 𧡊	eafj	0
 𧡋	vhhj	0
-𧡌	hwjj	0
+𧡌	dwjj	0
 𧡍	ajjj	0
 𧡎	dwjj	0
 𧡏	bbbj	0
@@ -58438,7 +58438,7 @@ columns:
 𧡡	xdjj	0
 𧡢	ifjj	0
 𧡣	mijj	0
-𧡤	hcjj	0
+𧡤	dcjj	0
 𧡥	skoj	0
 𧡦	dsjj	0
 𧡧	igfj	0
@@ -58496,7 +58496,7 @@ columns:
 𧢛	jeje	0
 𧢜	assj	0
 𧢝	vsvj	0
-𧢞	hwjj	0
+𧢞	dwjj	0
 𧢟	pjjc	0
 𧢠	juet	0
 𧢡	jcfj	0
@@ -58922,7 +58922,7 @@ columns:
 𧩅	bmxt	0
 𧩆	bhbh	0
 𧩇	brgk	0
-𧩈	bhhq	0
+𧩈	bdhq	0
 𧩉	bmbr	0
 𧩊	boqh	0
 𧩋	aaby	0
@@ -59452,7 +59452,7 @@ columns:
 𧱗	tjnb	0
 𧱘	ktrk	0
 𧱙	tkcn	0
-𧱚	thwy	0
+𧱚	tdwy	0
 𧱛	tlbo	0
 𧱜	trfc	0
 𧱝	bbbt	0
@@ -59834,7 +59834,7 @@ columns:
 𧷕	alxj	0
 𧷖	asjb	0
 𧷗	hwkj	0
-𧷘	jhvv	0
+𧷘	jdvv	0
 𧷙	hejb	0
 𧷚	jkrc	0
 𧷛	jdgb	0
@@ -60505,7 +60505,7 @@ columns:
 𨁵	pmek	0
 𨁶	pfka	0
 𨁷	pgjq	0
-𨁸	phhq	0
+𨁸	pdhq	0
 𨁹	piih	0
 𨁺	pjka	0
 𨁻	pxka	0
@@ -60520,7 +60520,7 @@ columns:
 𨂄	pehk	0
 𨂅	pquk	0
 𨂆	pwjf	0
-𨂇	phpi	0
+𨂇	pdpi	0
 𨂈	pjjw	0
 𨂉	pvhh	0
 𨂊	pwhl	0
@@ -60810,7 +60810,7 @@ columns:
 𨆦	pgjb	0
 𨆧	ddpz	0
 𨆨	plje	0
-𨆩	phco	0
+𨆩	pdco	0
 𨆪	dflp	0
 𨆫	pgxp	0
 𨆬	pppz	0
@@ -60982,7 +60982,7 @@ columns:
 𨉒	qlih	0
 𨉓	qrfr	0
 𨉔	qujz	0
-𨉕	qhhq	0
+𨉕	qdhq	0
 𨉖	dqsm	0
 𨉗	qijk	0
 𨉘	qdoc	0
@@ -61164,7 +61164,7 @@ columns:
 𨌈	dqsc	0
 𨌉	dlwy	0
 𨌊	dixf	0
-𨌋	dhlv	0
+𨌋	ddlv	0
 𨌌	ddfo	0
 𨌍	dkxc	0
 𨌎	drfa	0
@@ -61434,7 +61434,7 @@ columns:
 𨐖	sakx	0
 𨐗	kcfl	0
 𨐘	sakk	0
-𨐙	hlkx	0
+𨐙	dlkx	0
 𨐚	bglk	0
 𨐛	bnkx	0
 𨐜	kdgi	0
@@ -61460,7 +61460,7 @@ columns:
 𨐰	kkmk	0
 𨐱	kwkx	0
 𨐲	ubck	0
-𨐳	hlkk	0
+𨐳	dlkk	0
 𨐴	blkv	0
 𨐵	krgk	0
 𨐶	kbhf	0
@@ -61825,7 +61825,7 @@ columns:
 𨖝	cloc	0
 𨖞	uijo	0
 𨖟	qtoc	0
-𨖠	dhco	0
+𨖠	ddco	0
 𨖡	utoc	0
 𨖢	hjjo	0
 𨖣	xsuo	0
@@ -62238,7 +62238,7 @@ columns:
 𨜺	knvy	0
 𨜻	utyf	0
 𨜼	payf	0
-𨜽	hxxy	0
+𨜽	dxxy	0
 𨜾	rkby	0
 𨜿	wwjy	0
 𨝀	dyfg	0
@@ -62899,7 +62899,7 @@ columns:
 𨧏	tjnb	0
 𨧐	tfol	0
 𨧑	tupg	0
-𨧒	hotj	0
+𨧒	dotj	0
 𨧓	tswh	0
 𨧔	xubt	0
 𨧕	tbyj	0
@@ -62965,7 +62965,7 @@ columns:
 𨨑	mltj	0
 𨨒	tuxb	0
 𨨓	tcfw	0
-𨨔	thwy	0
+𨨔	tdwy	0
 𨨕	tnoc	0
 𨨖	jjtj	0
 𨨗	aatj	0
@@ -63055,7 +63055,7 @@ columns:
 𨩫	tefs	0
 𨩬	tdso	0
 𨩭	tksj	0
-𨩮	thcl	0
+𨩮	tdcl	0
 𨩯	txls	0
 𨩰	ttfp	0
 𨩱	tkgc	0
@@ -63613,7 +63613,7 @@ columns:
 𨲙	uvjb	0
 𨲚	ummr	0
 𨲛	uqqi	0
-𨲜	uhce	0
+𨲜	udce	0
 𨲝	upnm	0
 𨲞	ujwm	0
 𨲟	uirl	0
@@ -64055,7 +64055,7 @@ columns:
 𨹓	ytuj	0
 𨹔	yxob	0
 𨹕	yios	0
-𨹖	yhnb	0
+𨹖	ydnb	0
 𨹗	yqso	0
 𨹘	ymkv	0
 𨹙	yfol	0
@@ -64466,7 +64466,7 @@ columns:
 𨿮	xlwe	0
 𨿯	mwge	0
 𨿰	iehs	0
-𨿱	hweh	0
+𨿱	dweh	0
 𨿲	hkhe	0
 𨿳	fdee	0
 𨿴	lveh	0
@@ -64703,7 +64703,7 @@ columns:
 𩃛	cjry	0
 𩃜	cnkl	0
 𩃝	catu	0
-𩃞	chhh	0
+𩃞	cddh	0
 𩃟	cjdj	0
 𩃠	cinr	0
 𩃡	cdus	0
@@ -64855,7 +64855,7 @@ columns:
 𩅳	cnje	0
 𩅴	cnxd	0
 𩅵	cnbd	0
-𩅶	chhh	0
+𩅶	cddd	0
 𩅷	cbue	0
 𩅸	clhv	0
 𩅹	cnbj	0
@@ -65998,7 +65998,7 @@ columns:
 𩗪	ewhl	0
 𩗫	edgi	0
 𩗬	eaiv	0
-𩗭	ehhq	0
+𩗭	edhq	0
 𩗮	elvt	0
 𩗯	mcef	0
 𩗰	emsf	0
@@ -66189,7 +66189,7 @@ columns:
 𩚩	kjgs	0
 𩚪	kjss	0
 𩚫	kfpi	0
-𩚬	khyi	0
+𩚬	kdyi	0
 𩚭	kekc	0
 𩚮	kgoz	0
 𩚯	kbnb	0
@@ -66251,7 +66251,7 @@ columns:
 𩛧	kjng	0
 𩛨	kdwr	0
 𩛩	korr	0
-𩛪	khgy	0
+𩛪	kdgy	0
 𩛫	kvji	0
 𩛬	shkn	0
 𩛭	kanw	0
@@ -66666,7 +66666,7 @@ columns:
 𩢆	wluy	0
 𩢇	webo	0
 𩢈	wngi	0
-𩢉	hwmh	0
+𩢉	dwmh	0
 𩢊	wssl	0
 𩢋	wwym	0
 𩢌	twme	0
@@ -67152,7 +67152,7 @@ columns:
 𩩬	hxfr	0
 𩩭	rigj	0
 𩩮	rmsb	0
-𩩯	rhce	0
+𩩯	rdce	0
 𩩰	rnnd	0
 𩩱	rbib	0
 𩩲	rjwe	0
@@ -67167,7 +67167,7 @@ columns:
 𩩻	rdgj	0
 𩩼	rcnw	0
 𩩽	rxvj	0
-𩩾	rhio	0
+𩩾	rdio	0
 𩩿	rkjr	0
 𩪀	rdoc	0
 𩪁	rdgg	0
@@ -67393,7 +67393,7 @@ columns:
 𩭝	ugfk	0
 𩭞	ubns	0
 𩭟	uujz	0
-𩭠	uhwy	0
+𩭠	udwy	0
 𩭡	usjr	0
 𩭢	uuvn	0
 𩭣	unjr	0
@@ -67813,7 +67813,7 @@ columns:
 𩴁	dkfl	0
 𩴂	dmvl	0
 𩴃	dxbr	0
-𩴄	dhce	0
+𩴄	ddce	0
 𩴅	ddmo	0
 𩴆	nnkn	0
 𩴇	dsae	0
@@ -67842,7 +67842,7 @@ columns:
 𩴞	dugw	0
 𩴟	ohjd	0
 𩴠	dqxa	0
-𩴡	dheh	0
+𩴡	ddeh	0
 𩴢	kgcd	0
 𩴣	vmmd	0
 𩴤	doqi	0
@@ -68088,7 +68088,7 @@ columns:
 𩸔	ehlv	0
 𩸕	vucv	0
 𩸖	fkvv	0
-𩸗	vhtf	0
+𩸗	vdtf	0
 𩸘	vibb	0
 𩸙	vbns	0
 𩸚	vsmm	0
@@ -68110,7 +68110,7 @@ columns:
 𩸪	ixav	0
 𩸫	vmsf	0
 𩸬	vklv	0
-𩸭	vhhq	0
+𩸭	vdhq	0
 𩸮	voak	0
 𩸯	vbbb	0
 𩸰	vkug	0
@@ -68520,7 +68520,7 @@ columns:
 𩿄	ddnq	0
 𩿅	endn	0
 𩿆	hydn	0
-𩿇	hdnh	0
+𩿇	ddnh	0
 𩿈	kmdn	0
 𩿉	dkmd	0
 𩿊	wdny	0
@@ -69202,7 +69202,7 @@ columns:
 𪉮	uofo	0
 𪉯	uuei	0
 𪉰	urfm	0
-𪉱	uhce	0
+𪉱	udce	0
 𪉲	ujlg	0
 𪉳	kflu	0
 𪉴	usia	0
@@ -69560,7 +69560,7 @@ columns:
 𪏔	sdkj	0
 𪏕	sdkd	0
 𪏖	sdks	0
-𪏗	sdkc	0
+𪏗	svkc	0
 𪏘	sdkv	0
 𪏙	hfsk	0
 𪏚	sdkj	0
@@ -72940,7 +72940,7 @@ columns:
 𫄨	kseu	0
 𫄩	kgem	0
 𫄪	kgqm	0
-𫄫	khhq	0
+𫄫	kdhq	0
 𫄬	ksam	0
 𫄭	kgjt	0
 𫄮	kgbu	0
@@ -73529,7 +73529,7 @@ columns:
 𫍵	dhwt	0
 𫍶	ddtu	0
 𫍷	ddgy	0
-𫍸	dhvv	0
+𫍸	ddvv	0
 𫍹	dujq	0
 𫍺	ddst	0
 𫍻	dhlv	0
@@ -74103,7 +74103,7 @@ columns:
 𫖳	bglc	0
 𫖴	hcvc	0
 𫖵	dfuc	0
-𫖶	hwvc	0
+𫖶	dwvc	0
 𫖷	savc	0
 𫖸	vdic	0
 𫖹	kjic	0
@@ -76315,7 +76315,7 @@ columns:
 𫹟	cljy	0
 𫹠	cgmy	0
 𫹡	csir	0
-𫹢	chlt	0
+𫹢	cdlt	0
 𫹣	coqi	0
 𫹤	cuuu	0
 𫹥	cbgj	0
@@ -76937,7 +76937,7 @@ columns:
 𬃍	andb	0
 𬃎	aaos	0
 𬃏	aijk	0
-𬃐	ahig	0
+𬃐	adig	0
 𬃑	aqwr	0
 𬃒	amka	0
 𬃓	ablv	0
@@ -77872,7 +77872,7 @@ columns:
 𬑴	jali	0
 𬑵	qajq	0
 𬑶	jflg	0
-𬑷	jhta	0
+𬑷	jdta	0
 𬑸	jflh	0
 𬑹	vvhs	0
 𬑺	vkcs	0
@@ -78436,7 +78436,7 @@ columns:
 𬚨	lfks	0
 𬚩	uvul	0
 𬚪	bhsi	0
-𬚫	hlba	0
+𬚫	dlba	0
 𬚬	pwbc	0
 𬚭	dbak	0
 𬚮	xfxa	0
@@ -78685,7 +78685,7 @@ columns:
 𬞡	swqu	0
 𬞢	sujx	0
 𬞣	smnc	0
-𬞤	shco	0
+𬞤	sdco	0
 𬞥	snuo	0
 𬞦	sqks	0
 𬞧	sqnr	0
@@ -78910,7 +78910,7 @@ columns:
 𬢂	jbgj	0
 𬢃	oooj	0
 𬢄	jvsk	0
-𬢅	htbj	0
+𬢅	dtbj	0
 𬢆	uujj	0
 𬢇	bcjo	0
 𬢈	xicj	0
@@ -79637,7 +79637,7 @@ columns:
 𬭙	oqjg	0
 𬭚	oakz	0
 𬭛	onbp	0
-𬭜	ohhq	0
+𬭜	odhq	0
 𬭝	onoc	0
 𬭞	oole	0
 𬭟	oofo	0
@@ -80341,7 +80341,7 @@ columns:
 𬸙	jigm	0
 𬸚	hdhm	0
 𬸛	djmn	0
-𬸜	hcmn	0
+𬸜	dcmn	0
 𬸝	kjmn	0
 𬸞	qcmn	0
 𬸟	bdmn	0
@@ -80864,7 +80864,7 @@ columns:
 𭀲	pwib	0
 𭀳	pwec	0
 𭀴	ilae	0
-𭀵	pwhv	0
+𭀵	pwdv	0
 𭀶	ilbo	0
 𭀷	pwej	0
 𭀸	dwsi	0
@@ -82867,9 +82867,9 @@ columns:
 𭠅	hmbo	0
 𭠆	dwos	0
 𭠇	dlvt	0
-𭠈	httf	0
+𭠈	dttf	0
 𭠉	drku	0
-𭠊	hvvb	0
+𭠊	dvvb	0
 𭠋	dvva	0
 𭠌	hcpo	0
 𭠍	xgpi	0
@@ -82948,7 +82948,7 @@ columns:
 𭡖	frag	0
 𭡗	ftul	0
 𭡘	fkmc	0
-𭡙	fhwy	0
+𭡙	fdwy	0
 𭡚	fnhn	0
 𭡛	ftww	0
 𭡜	fids	0
@@ -83403,7 +83403,7 @@ columns:
 𭨝	jwcd	0
 𭨞	jqjj	0
 𭨟	qjqg	0
-𭨠	hltj	0
+𭨠	dltj	0
 𭨡	bhjs	0
 𭨢	jwwk	0
 𭨣	jrce	0
@@ -83431,7 +83431,7 @@ columns:
 𭨹	wfkp	0
 𭨺	wkfl	0
 𭨻	wrls	0
-𭨼	hwob	0
+𭨼	dwob	0
 𭨽	wjwy	0
 𭨾	gwea	0
 𭨿	hcwy	0
@@ -85256,7 +85256,7 @@ columns:
 𮅚	gfoc	0
 𮅛	gefw	0
 𮅜	ghug	0
-𮅝	ghtf	0
+𮅝	gdtf	0
 𮅞	gijq	0
 𮅟	gmek	0
 𮅠	guul	0
@@ -85398,7 +85398,7 @@ columns:
 𮇨	quxb	0
 𮇩	qswe	0
 𮇪	qaiv	0
-𮇫	qhtf	0
+𮇫	qdtf	0
 𮇬	pfoq	0
 𮇭	qele	0
 𮇮	qxbr	0
@@ -85700,7 +85700,7 @@ columns:
 𮌖	wjjr	0
 𮌗	wunn	0
 𮌘	wpzy	0
-𮌙	hwod	0
+𮌙	dwod	0
 𮌚	wwgp	0
 𮌛	nwhu	0
 𮌜	crrt	0
@@ -87880,7 +87880,7 @@ columns:
 𮮚	gklv	0
 𮮛	gibb	0
 𮮜	kjvi	0
-𮮝	hltg	0
+𮮝	dltg	0
 𮮞	qvgh	0
 𮮟	huji	0
 𮮠	squk	0
@@ -87973,7 +87973,7 @@ columns:
 𰀖	fwkf	0
 𰀗	jjjj	0
 𰀘	vicr	0
-𰀙	fohc	0
+𰀙	fodc	0
 𰀚	vfpt	0
 𰀛	fjjh	0
 𰀜	vfpg	0
@@ -88088,7 +88088,7 @@ columns:
 𰂉	egwk	0
 𰂊	esel	0
 𰂋	etjr	0
-𰂌	ehlv	0
+𰂌	edlv	0
 𰂍	enib	0
 𰂎	etwy	0
 𰂏	egyo	0
@@ -89152,9 +89152,9 @@ columns:
 𰒱	ljak	0
 𰒲	klff	0
 𰒳	kkuo	0
-𰒴	htes	0
+𰒴	dtes	0
 𰒵	haql	0
-𰒶	htht	0
+𰒶	dtdt	0
 𰒷	fxis	0
 𰒸	fajs	0
 𰒹	foms	0
@@ -89220,7 +89220,7 @@ columns:
 𰓵	ftdf	0
 𰓶	mmfs	0
 𰓷	ftjw	0
-𰓸	fhlv	0
+𰓸	fdlv	0
 𰓹	fksk	0
 𰓺	fhre	0
 𰓻	focj	0
@@ -89526,7 +89526,7 @@ columns:
 𰘧	aglm	0
 𰘨	hhha	0
 𰘩	asbk	0
-𰘪	jaht	0
+𰘪	jadt	0
 𰘫	ajhw	0
 𰘬	jarr	0
 𰘭	pppa	0
@@ -90555,7 +90555,7 @@ columns:
 𰨬	mxuj	0
 𰨭	mvcn	0
 𰨮	mijr	0
-𰨯	mhtf	0
+𰨯	mdtf	0
 𰨰	mglj	0
 𰨱	mell	0
 𰨲	qamh	0
@@ -90670,7 +90670,7 @@ columns:
 𰪟	gfst	0
 𰪠	guvw	0
 𰪡	gmkv	0
-𰪢	gohc	0
+𰪢	godc	0
 𰪣	gtcb	0
 𰪤	ggqg	0
 𰪥	gtut	0
@@ -90984,7 +90984,7 @@ columns:
 𰯙	wqoh	0
 𰯚	wiii	0
 𰯛	wtqc	0
-𰯜	hwrd	0
+𰯜	dwrd	0
 𰯝	wmmp	0
 𰯞	wuog	0
 𰯟	wyeo	0
@@ -92457,7 +92457,7 @@ columns:
 𱆚	dvcb	0
 𱆛	dkdg	0
 𱆜	cqtd	0
-𱆝	htdg	0
+𱆝	dtdg	0
 𱆞	dffd	0
 𱆟	dkly	0
 𱆠	dpjk	0
@@ -93335,7 +93335,7 @@ columns:
 𱔍	ldkw	0
 𱔎	levm	0
 𱔏	lmbx	0
-𱔐	hltl	0
+𱔐	dltl	0
 𱔑	lrnc	0
 𱔒	lbes	0
 𱔓	liol	0
@@ -94057,10 +94057,10 @@ columns:
 𱟟	hllk	0
 𱟠	uekg	0
 𱟡	kwuk	0
-𱟢	htle	0
-𱟣	hcrg	0
+𱟢	dtle	0
+𱟣	dcrg	0
 𱟤	seit	0
-𱟥	hign	0
+𱟥	dign	0
 𱟦	tdot	0
 𱟧	htto	0
 𱟨	stdt	0
@@ -94105,7 +94105,7 @@ columns:
 𱠏	filw	0
 𱠐	frrs	0
 𱠑	frkr	0
-𱠒	fhtf	0
+𱠒	fdtf	0
 𱠓	fttu	0
 𱠔	fqoa	0
 𱠕	fscn	0
@@ -95668,7 +95668,7 @@ columns:
 𱸪	grnk	0
 𱸫	ggja	0
 𱸬	gfso	0
-𱸭	gnho	0
+𱸭	gndo	0
 𱸮	gdwo	0
 𱸯	ghkk	0
 𱸰	ghjj	0
@@ -95903,7 +95903,7 @@ columns:
 𱼕	wvjk	0
 𱼖	wnvj	0
 𱼗	wqed	0
-𱼘	hwdo	0
+𱼘	dwdo	0
 𱼙	wtwj	0
 𱼚	fkyr	0
 𱼛	crrw	0
@@ -97136,7 +97136,7 @@ columns:
 𮰦	hofo	0
 𮰧	hjkl	0
 𮰨	huja	0
-𮰩	hhhc	0
+𮰩	hhdc	0
 𮰪	hdkw	0
 𮰫	hmod	0
 𮰬	hjts	0
@@ -97241,7 +97241,7 @@ columns:
 𮲏	ffso	0
 𮲐	frkn	0
 𮲑	fxld	0
-𮲒	hltf	0
+𮲒	dltf	0
 𮲓	dtuo	0
 𮲔	uotu	0
 𮲕	avtu	0
@@ -97306,7 +97306,7 @@ columns:
 𮳐	njmc	0
 𮳑	npnd	0
 𮳒	nplt	0
-𮳓	hltn	0
+𮳓	dltn	0
 𮳔	nvee	0
 𮳕	hnrn	0
 𮳖	ngch	0
@@ -97349,7 +97349,7 @@ columns:
 𮳻	pvsl	0
 𮳼	pbjg	0
 𮳽	hdfl	0
-𮳾	hhlv	0
+𮳾	hdlv	0
 𮳿	hhhh	0
 𮴀	jlww	0
 𮴁	jivw	0
@@ -97516,7 +97516,7 @@ columns:
 𮶢	smam	0
 𮶣	sirb	0
 𮶤	snin	0
-𮶥	snhh	0
+𮶥	sndh	0
 𮶦	sjtu	0
 𮶧	seeu	0
 𮶨	stmh	0
@@ -97663,8 +97663,8 @@ columns:
 𮸵	ujvc	0
 𮸶	jkvc	0
 𮸷	kjvc	0
-𮸸	hcvc	0
-𮸹	hevc	0
+𮸸	dcvc	0
+𮸹	devc	0
 𮸺	pivq	0
 𮸻	esjc	0
 𮸼	iiis	0

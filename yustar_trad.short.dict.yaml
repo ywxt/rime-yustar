@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_trad.short"
-version: "20240405"
+version: "20240406"
 sort: original
 columns:
   - text
@@ -113,7 +113,7 @@ columns:
 白	db
 車	dc
 所	dd
-閥	de
+顧	de
 開	df
 鬼	dg
 與	dh
@@ -214,9 +214,9 @@ columns:
 竹	gz
 壞	ha
 聲	hb
-遍	hc
+坰	hc
 塊	hd
-顧	he
+堆	he
 穀	hf
 塲	hg
 幫	hh
@@ -231,7 +231,7 @@ columns:
 報	hq
 志	hr
 士	hs
-房	ht
+垎	ht
 獨	hu
 埋	hv
 靜	hw
@@ -993,6 +993,7 @@ columns:
 訥	bcr
 屜	bcs
 讕	bda
+諞	bdc
 肅	bdd
 詬	bdf
 訢	bdj
@@ -1027,7 +1028,6 @@ columns:
 訖	bgy
 訝	bha
 詎	bhb
-諞	bhc
 疆	bhf
 詿	bhh
 諸	bhj
@@ -1229,10 +1229,11 @@ columns:
 奻	ccn
 嬬	ccs
 嫻	cda
+徧	cdc
 婣	cdd
 姤	cdf
 循	cdg
-娉	cdh
+妒	cdh
 徨	cdj
 妯	cdo
 媲	cds
@@ -1435,12 +1436,16 @@ columns:
 輾	dbs
 闈	dbw
 殷	dby
+扁	dce
 興	dcf
 冑	dci
 囪	dck
+扃	dcl
 妝	dcn
+遍	dco
 鬽	dcp
 魍	dcq
+翩	dcv
 槧	dda
 慧	ddb
 轟	ddd
@@ -1449,7 +1454,7 @@ columns:
 塹	ddh
 質	ddj
 轉	ddk
-轢	ddn
+牖	ddn
 軸	ddo
 蹔	ddp
 慙	ddr
@@ -1461,6 +1466,7 @@ columns:
 魋	deh
 軋	dei
 鳧	dej
+閥	dek
 閎	den
 卮	dfa
 丰	dff
@@ -1537,7 +1543,9 @@ columns:
 闠	dlj
 軹	dlk
 輯	dll
+扈	dlo
 鼠	dls
+啟	dlt
 鼷	dlu
 輜	dlv
 軏	dlw
@@ -1593,19 +1601,24 @@ columns:
 輭	dso
 輀	dsr
 申	dss
+棨	dta
+肇	dtb
 閔	dte
+房	dtf
 閡	dth
 閣	dtl
+綮	dto
 悤	dtr
 邀	dtt
 囱	dtu
 魑	dtw
 叟	dub
 鷉	dud
-皚	duf
+扉	duf
 緜	dug
 虒	duh
 帥	duj
+扂	dul
 遞	duo
 島	dus
 皭	duu
@@ -1616,6 +1629,7 @@ columns:
 閘	dvj
 砉	dvs
 畠	dvt
+扇	dvv
 閫	dwa
 牎	dwc
 鷳	dwd
@@ -1631,8 +1645,10 @@ columns:
 皂	dxi
 輓	dxl
 欣	dxq
+扅	dxx
 幚	dyd
 鄔	dyf
+戹	dyi
 闞	dyl
 鵂	ead
 伉	eae
@@ -1668,7 +1684,8 @@ columns:
 㚢	ecn
 儂	ecs
 伯	edb
-俥	edc
+偏	edc
+僱	ede
 傀	edg
 俜	edh
 凰	edj
@@ -1716,8 +1733,6 @@ columns:
 仡	egy
 伢	eha
 佢	ehb
-偏	ehc
-僱	ehe
 俵	ehg
 佳	ehh
 債	ehj
@@ -1941,6 +1956,7 @@ columns:
 攔	fda
 誓	fdb
 拽	fdg
+捩	fdh
 折	fdj
 拆	fdk
 哲	fdl
@@ -1951,6 +1967,7 @@ columns:
 攪	fds
 擱	fdt
 搜	fdu
+掮	fdw
 掀	fdx
 拔	feb
 擕	fec
@@ -1987,7 +2004,6 @@ columns:
 擡	fhl
 搕	fhn
 撻	fhq
-掮	fhw
 擣	fhy
 攛	fid
 擯	fif
@@ -2213,6 +2229,7 @@ columns:
 笯	gcb
 筒	gcf
 範	gda
+篇	gdc
 簰	gdd
 篩	gdf
 篁	gdj
@@ -2248,7 +2265,6 @@ columns:
 迕	ggo
 筵	ggp
 笮	ggu
-篇	ghc
 籃	ghg
 黑	ghh
 筐	ghj
@@ -2406,7 +2422,6 @@ columns:
 𥫗	gzz
 牙	haa
 坑	hae
-扆	hag
 猄	hai
 犯	haj
 狡	hak
@@ -2434,15 +2449,14 @@ columns:
 埽	hbx
 狺	hby
 臣	hcc
-扁	hce
+㺢	hce
 垌	hcf
-扃	hcl
 㹧	hco
 彭	hcp
 甏	hcr
 壩	hcs
-翩	hcv
 坂	hdb
+匾	hdc
 獅	hdf
 埠	hdg
 匠	hdj
@@ -2493,14 +2507,13 @@ columns:
 圫	hgx
 表	hgy
 犽	hha
-匾	hhc
 鼃	hhd
 户	hhh
 堵	hhj
 考	hhk
 猿	hhl
 刲	hhm
-戾	hhq
+墶	hhq
 墻	hhr
 圭	hht
 卦	hhu
@@ -2508,9 +2521,9 @@ columns:
 邽	hhy
 垵	hic
 垸	hif
-戽	hig
+垞	hig
 狄	hih
-扊	hii
+埮	hii
 狩	hik
 垙	hil
 坨	hin
@@ -2565,10 +2578,8 @@ columns:
 熹	hli
 匱	hlj
 區	hll
-扈	hlo
 憙	hlr
 劼	hls
-啟	hlt
 喜	hlv
 獵	hlw
 臺	hlx
@@ -2639,15 +2650,11 @@ columns:
 塃	hst
 猫	hsv
 獴	hsx
-棨	hta
-肇	htb
+鿍	hta
 坊	htf
 垓	hth
-啓	htl
-綮	hto
 土	htt
 攷	htu
-䏿	htw
 赴	hub
 堪	hue
 匪	huf
@@ -2671,7 +2678,7 @@ columns:
 猥	hvm
 獗	hvq
 堺	hvr
-扇	hvv
+趯	hvv
 猬	hvw
 坍	hwa
 鶄	hwd
@@ -2696,8 +2703,6 @@ columns:
 塚	hxt
 垝	hxv
 坉	hxw
-扅	hxx
-戹	hyi
 壽	hyp
 壴	hzz
 炕	iae
@@ -2731,6 +2736,7 @@ columns:
 頞	icv
 爛	ida
 寢	idb
+煸	idc
 寐	idf
 煌	idj
 割	idl
@@ -2741,6 +2747,7 @@ columns:
 燜	idr
 窗	idt
 憲	idu
+煽	idv
 寫	idw
 焮	idx
 室	idz
@@ -2786,7 +2793,6 @@ columns:
 突	ihq
 堂	iht
 竇	ihu
-煽	ihv
 凊	ihw
 䣘	ihy
 煊	iif
@@ -3463,7 +3469,7 @@ columns:
 嗖	ldu
 嗚	ldw
 呂	ldx
-㘚	ldy
+呝	ldy
 咥	ldz
 咻	lea
 喉	leb
@@ -3518,7 +3524,6 @@ columns:
 號	lhu
 嗷	lhw
 噎	lhx
-呝	lhy
 唗	lhz
 嗐	lid
 喧	lif
@@ -3977,7 +3982,7 @@ columns:
 漸	ndd
 浜	ndf
 洩	ndg
-涄	ndh
+淚	ndh
 潤	ndj
 泝	ndk
 濶	ndl
@@ -4035,10 +4040,10 @@ columns:
 滙	nhe
 瀔	nhf
 濫	nhg
-淚	nhh
+澆	nhh
 漬	nhj
 淩	nhk
-滬	nhl
+漚	nhl
 溘	nhn
 漪	nho
 澾	nhq
@@ -4324,6 +4329,7 @@ columns:
 綱	ocq
 納	ocr
 繻	ocs
+編	odc
 奄	odd
 絏	odg
 舂	odi
@@ -4362,7 +4368,6 @@ columns:
 奔	ogs
 紇	ogy
 奆	ohb
-編	ohc
 纜	ohg
 繞	ohh
 緒	ohj
@@ -4511,6 +4516,7 @@ columns:
 𤯕	pcn
 蹤	pcr
 醴	pcs
+蹁	pdc
 躓	pdd
 醜	pdg
 齗	pdj
@@ -4539,7 +4545,7 @@ columns:
 酢	pgu
 廼	pgy
 距	phb
-蹁	phc
+㚽	phc
 蹺	phh
 蹟	phj
 巧	phk
@@ -4722,6 +4728,7 @@ columns:
 蠕	qcs
 𧒽	qcv
 粕	qdb
+蝙	qdc
 蝂	qdd
 蚌	qdf
 蜱	qdg
@@ -4756,7 +4763,7 @@ columns:
 虼	qgy
 蚜	qha
 粔	qhb
-蝙	qhc
+蟛	qhc
 蛙	qhh
 蝘	qhj
 軀	qhl
@@ -4936,6 +4943,7 @@ columns:
 怏	rco
 惘	rcq
 懦	rcs
+惼	rdc
 慚	rdd
 骺	rdf
 愧	rdg
@@ -4970,7 +4978,6 @@ columns:
 悖	rgx
 邲	rgy
 慳	rhb
-惼	rhc
 合	rhh
 恇	rhj
 恃	rhk
@@ -5143,6 +5150,7 @@ columns:
 繭	scu
 蕾	scv
 蘅	scx
+萹	sdc
 藠	sdd
 藺	sde
 茩	sdf
@@ -5995,7 +6003,6 @@ columns:
 矻	vgy
 砑	vha
 鰹	vhb
-鯿	vhc
 碡	vhe
 𥗽	vhg
 硅	vhh
@@ -6192,6 +6199,7 @@ columns:
 勿	wcp
 肭	wcr
 腆	wcs
+騙	wdc
 駈	wdf
 脈	wdg
 騁	wdh
@@ -6201,7 +6209,7 @@ columns:
 腴	wdr
 胂	wds
 驄	wdt
-騞	wdv
+騸	wdv
 胈	web
 颿	wef
 騅	weh
@@ -6227,14 +6235,13 @@ columns:
 胙	wgu
 脖	wgx
 肐	wgy
-騙	whc
+膨	whc
 臌	whg
 驍	whh
 周	whl
 胠	whn
 圉	whq
 肚	wht
-騸	whv
 圊	whw
 胺	wic
 膣	wid
@@ -6412,6 +6419,7 @@ columns:
 襦	xcs
 襴	xda
 皸	xdb
+褊	xdc
 鵮	xdd
 裨	xdg
 燄	xdi
@@ -6433,7 +6441,6 @@ columns:
 襶	xgk
 褪	xgo
 裇	xgu
-褊	xhc
 襤	xhg
 褂	xhh
 襀	xhj
