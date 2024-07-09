@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_trad.short"
-version: "20240406"
+version: "20240710"
 sort: original
 columns:
   - text
@@ -11,7 +11,7 @@ columns:
 
 來	a	all
 這	b	bocy
-她	c	coen
+好	c	ckzn
 的	d	dwkd
 有	e	ewyz
 一	f	fii
@@ -94,11 +94,11 @@ columns:
 待	ch
 行	ci
 得	cj
-好	ck
+內	ck
 如	cl
 衝	cm
 後	cn
-央	co
+她	co
 露	cp
 剛	cq
 從	cr
@@ -231,7 +231,7 @@ columns:
 報	hq
 志	hr
 士	hs
-垎	ht
+攷	ht
 獨	hu
 埋	hv
 靜	hw
@@ -684,13 +684,14 @@ columns:
 楚	aay
 楗	aba
 杻	abc
+棣	abd
 橙	abf
 櫧	abh
 榍	abi
 楣	abj
 杈	abk
 梶	abm
-棣	abn
+樨	abn
 𠬝	abo
 桶	abs
 梫	abx
@@ -1101,7 +1102,7 @@ columns:
 誒	bnj
 詒	bnl
 屁	bnn
-逮	bno
+逯	bno
 遲	bnp
 評	bnq
 尿	bns
@@ -1317,7 +1318,7 @@ columns:
 冂	ckk
 冏	ckl
 雰	ckm
-內	ckr
+恏	ckr
 妤	ckv
 婚	ckx
 娵	clb
@@ -1346,7 +1347,7 @@ columns:
 女	cnn
 霑	cnu
 姨	cob
-鴦	cod
+央	cod
 姱	cof
 妃	coj
 嫽	coq
@@ -1487,7 +1488,6 @@ columns:
 奧	dgq
 廹	dgy
 裝	dha
-鬭	dhb
 毀	dhe
 戶	dhh
 舉	dhj
@@ -2183,7 +2183,7 @@ columns:
 搵	fwr
 拙	fww
 抈	fwy
-換	fxc
+殃	fxc
 揮	fxd
 搉	fxe
 殭	fxf
@@ -2195,6 +2195,7 @@ columns:
 挽	fxl
 烈	fxm
 殆	fxn
+換	fxo
 殊	fxp
 殲	fxr
 殢	fxs
@@ -2435,6 +2436,7 @@ columns:
 垏	hba
 㙍	hbb
 狃	hbc
+埭	hbd
 馨	hbe
 豎	hbf
 堅	hbh
@@ -2653,8 +2655,8 @@ columns:
 鿍	hta
 坊	htf
 垓	hth
+垎	htl
 土	htt
-攷	htu
 赴	hub
 堪	hue
 匪	huf
@@ -2947,6 +2949,7 @@ columns:
 資	ixj
 餈	ixk
 咨	ixl
+煥	ixo
 炊	ixq
 瓷	ixr
 窀	ixw
@@ -3166,11 +3169,11 @@ columns:
 玲	jrk
 瞼	jrq
 矬	jrr
-畢	jsa
 購	jsc
 璜	jsd
 晞	jse
 瞞	jsf
+畢	jsg
 瑾	jsi
 暴	jsk
 助	jsl
@@ -3226,7 +3229,6 @@ columns:
 兡	jwv
 王	jww
 胡	jwy
-瓊	jxc
 暈	jxd
 珎	jxi
 瞑	jxj
@@ -3254,6 +3256,7 @@ columns:
 丶	kdd
 餽	kdg
 臧	kdh
+斲	kdj
 𮄿	kdk
 鳶	kdn
 䭔	kdo
@@ -3701,8 +3704,8 @@ columns:
 邋	lws
 兀	lww
 喼	lxb
-喚	lxc
 啗	lxd
+喚	lxo
 卼	lxv
 耽	lxw
 哆	lxx
@@ -3722,11 +3725,12 @@ columns:
 氊	maw
 毽	mba
 廢	mbb
+康	mbd
 瘕	mbi
 秉	mbj
 瘙	mbk
 唐	mbl
-康	mbn
+穉	mbn
 疲	mbp
 庚	mbr
 癜	mbs
@@ -3929,8 +3933,8 @@ columns:
 庖	mwo
 禿	mwr
 頹	mwv
-瘓	mxc
 疚	mxk
+瘓	mxo
 廨	mxs
 鄜	myf
 痾	myj
@@ -4281,13 +4285,13 @@ columns:
 泗	nww
 柒	nxa
 㴔	nxb
-渙	nxc
 渾	nxd
 沉	nxe
 溟	nxj
 滘	nxk
 洺	nxl
 沏	nxm
+渙	nxo
 㳄	nxq
 澥	nxs
 盜	nxu
@@ -6414,7 +6418,6 @@ columns:
 急	xbr
 煞	xbt
 褘	xbw
-奐	xck
 衲	xcr
 襦	xcs
 襴	xda
@@ -6451,6 +6454,7 @@ columns:
 冥	xja
 袒	xjf
 幂	xjo
+夐	xjt
 褟	xjv
 褐	xjw
 襯	xka
@@ -6473,6 +6477,7 @@ columns:
 衽	xmr
 褯	xms
 褦	xnw
+奐	xod
 袴	xof
 襈	xoo
 裌	xor
@@ -6513,6 +6518,7 @@ columns:
 旾	xwj
 屯	xwk
 袍	xwo
+㓁	xwr
 肎	xwy
 褌	xxd
 冤	xxl
